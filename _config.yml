@@ -1,0 +1,69 @@
+title: 英語のおべんきょ
+
+email: tetsuwo.oishi@gmail.com
+
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+
+baseurl: ""
+
+url: "https://en-study.t5o.me"
+
+twitter_username: tetsukamp
+github_username:  tetsuwo
+
+markdown: kramdown
+
+#theme: none
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-redirect-from
+#  - jekyll-paginate-category
+
+whitelist:
+  - jekyll-redirect-from
+
+defaults:
+  - 
+    scope:
+      type: pages
+    values:
+      permalink: /:path/:basename:output_ext
+  - 
+    scope:
+      type: posts
+    values:
+      permalink: /post/:year:month:day/:title.html
+
+#destination: public
+#source: src
+
+
+paginate: 5
+paginate_path: "page/:num"
+
+#category_dir: "categories"
+#category_layout: "index.html"
+
+# My variables
+homeurl: https://en-study.t5o.me
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - webpack.config.js
+  - package.json
+  - package-lock.json
+  - node_modules
+  - .bundle/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

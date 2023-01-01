@@ -1,0 +1,178 @@
+---
+---
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <title>
+            {{ page.title }}
+            {% if paginator %}
+                {% if paginator.page > 1 %}
+                    - page {{ paginator.page }}
+                {% endif %}
+            {% endif %}
+        </title>
+        <link rel="stylesheet" href="/assets/css/style.css">
+        {% if page.description %}
+        	<meta name="description" content="{{ page.description }}">
+        {% endif %}
+        {% if page.meta.robots %}
+        	<meta name="robots" content="{{ page.meta.robots }}">
+        {% endif %}
+        {% if page.canonical %}
+            <link rel="canonical" href="{{ page.canonical }}">
+        {% endif %}
+        {% if page.stylesheets %}
+            {% for stylesheet in page.stylesheets %}
+                <link rel="stylesheet" href="{{ stylesheet }}"> 
+            {% endfor %}
+        {% endif %}
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-PQDBDL');</script>
+        <!-- End Google Tag Manager -->
+        <!-- Google AdSense/ -->
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({
+                  google_ad_client: "ca-pub-1182643073398882",
+                  enable_page_level_ads: true
+             });
+        </script>
+        <!-- /Google AdSense -->
+    </head>
+    <body id="top">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PQDBDL"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+        
+        <div id="fb-root"></div>
+
+        <header id="header" class="clearfix">
+            <hgroup>
+                <h1><a href="/">をぶろぐ</a></h1>
+            </hgroup>
+        </header>
+
+        <div id="pagebody" class="clearfix">
+            <section id="main" class="clearfix">
+                {{ content }}
+            </section>
+            <!-- /#main -->
+
+            <div id="sider" class="clearfix">
+                <div class="sider-inner">
+                    <!--
+                    <aside class="sider-group clearfix">
+                        <script language="javascript" type="text/javascript" src="https://b.hatena.ne.jp/js/widget.js" charset="utf-8"></script>
+                        <script language="javascript" type="text/javascript">
+                            Hatena.BookmarkWidget.url = "http://tetsuwo.tumblr.com";
+                            Hatena.BookmarkWidget.title = "Popular Articles";
+                            Hatena.BookmarkWidget.sort = "count";
+                            Hatena.BookmarkWidget.width = 0;
+                            Hatena.BookmarkWidget.num = 20;
+                            Hatena.BookmarkWidget.theme = "Hatena.BookmarkWidget";
+                            Hatena.BookmarkWidget.load();
+                        </script>
+                    </aside>
+                    -->
+
+                    <!--<section class="sider-group clearfix">
+                        <h1 class="sider-title">Categories</h1>
+                    </section>-->
+
+                    {% assign tag_names = "" | split: "|"  %}
+                    
+                    {% for posts_by_tag in site.tags %}
+                      {% assign tag_names = tag_names | push: posts_by_tag.first %}
+                    {% endfor %}
+                    
+                    {% assign tag_names = tag_names | sort %}
+                    <section class="sider-group clearfix">
+                        <h1 class="sider-title">タグ</h1>
+                        <ul id="tags">
+                            {% for tag_name in tag_names %}
+                                <li><a href="{{ site.baseurl }}/tag/{{ tag_name | slugize }}">
+                                    {{ tag_name }}
+                                </a></li>
+                            {% endfor %}
+                        </ul>
+                    </section>
+                    
+                    <section class="sider-group clearfix">
+                        <h1 class="sider-title">リンク</h1>
+                        <ul>
+                            <li><a href="http://tetsuwo.tumblr.com">前のブログ</a></li>
+                        </ul>
+                    </section>
+                </div>
+            </div>
+            <!-- /#sider -->
+
+        </div>
+        <!-- /#pagebody -->
+
+        <footer id="footer" class="clearfix">
+            <div class="footer-menu fixed-width clearfix">
+                <div class="pagetop"><a href="#top">PAGETOP</a></div>
+                <!--<div class="head clearfix">
+                    <nav>
+                        <h3>My Products</h3>
+                        <ul>
+                            <li><a href="https://chrome.google.com/webstore/detail/hclgegipaehbigmbhdpfapmjadbaldib">Website Blocker (Chrome.ext)</a></li>
+                            <li><a href="https://chrome.google.com/webstore/detail/gjlmabfkhojibpdhdcdkagiplbmkcgfd">JAPAN - Power Usage Checker (Chrome.ext)</a></li>
+                            <li><a href="https://chrome.google.com/webstore/detail/eiingmhoibigiplopcmepmahoihedjnk">Backyard (Chrome.ext)</a></li>
+                            <li><a href="https://chrome.google.com/webstore/detail/gdefhppjmapmooojcbdbbpgakejfnhec">Trello Checker (Chrome.ext)</a></li>
+                            <li><a href="https://chrome.google.com/webstore/detail/kbaamlaoekkcaebldgfmoogffhjhdpha">Markdownista (Chrome App)</a></li>
+                        </ul>
+                    </nav>
+                    <nav id="profile" class="profile">
+                        <h3>Profile</h3>
+                        <p class="fixmb">Tetsuwo OISHI - 1984/09/14<br>1984, Vimmer, JavaScript, Arsenal, Soccer, Football, Bergkamp</p>
+                        <ul>
+                            <li><a href="https://github.com/tetsuwo">GitHub</a></li>
+                            <li><a href="https://bitbucket.org/tetsuwo">Bitbucket</a></li>
+                            <li><a href="https://www.facebook.com/tetsuwo">Facebook</a></li>
+                            <li><a href="https://twitter.com/tetsukamp">Twitter</a></li>
+                            <li><a href="https://chrome.google.com/webstore/search?q=Tetsuwo+OISHI">Google Chrome Extensions</a></li>
+                        </ul>
+                    </nav>
+                    <nav>
+                        <h3 id="others">Others</h3>
+                        <ul>
+                            <li>
+                                <a href="https://b.hatena.ne.jp/entrylist?url=http://tetsuwo.tumblr.com/">
+                                    <img src="https://b.hatena.ne.jp/bc/bl/http://tetsuwo.tumblr.com/" class="bcounter" alt="Hatena">
+                                </a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>-->
+                <div class="copyright">
+                    &copy; <a href="/">Tetsuwo OISHI</a>.
+                </div>
+            </div>
+        </footer>
+
+        <script src="/assets/vendor/webfontloader/1.6.28/webfontloader.js"></script>
+        <script src="/assets/vendor/underscore/1.13.2/underscore-umd-min.js"></script>
+        <script src="/assets/vendor/snap.svg/0.4.1/snap.svg-min.js"></script>
+        <script src="/assets/vendor/sequence-diagram/2.0.1/sequence-diagram-min.js"></script>
+        <script src="/assets/js/bundle.js"></script>
+        {% if page.javascripts %}
+            {% for javascript in page.javascripts %}
+                <script src="{{ javascript }}"></script>
+            {% endfor %}
+        {% endif %}
+        <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=tetsuwo"></script>
+        <!-- Amazon Publisher Studio/ -->
+        <script> var amzn_ps_tracking_id = "t5o-22"; </script>
+        <script async="true" type="text/javascript" src="//d35h7tny4b24fd.cloudfront.net/scripts/JP/studio.js"></script>
+        <!-- /Amazon Publisher Studio -->
+    </body>
+</html>

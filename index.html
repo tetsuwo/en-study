@@ -1,0 +1,41 @@
+---
+layout: main
+title: をぶろぐ
+---
+
+{% for post in paginator.posts %}
+    <article class="post post-text clearfix">
+        <header class="post-head clearfix">
+            <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+        </header>
+        
+        <div class="post-body clearfix">{{ post.content | split:"<!-- more -->" | first }}</div>
+        
+        {% if post.content contains "<!-- more -->" %}
+            <div class="post-body clearfix">
+                <a href="{{ post.url }}">つづきをみる</a>
+            </div>
+        {% endif %}
+
+        <footer class="post-foot clearfix">
+            <div class="clearfix">
+                <p class="tags">
+                    {% for tag in post.tags %}
+                        <a href="/tag/{{ tag }}">{{ tag }}</a>
+                    {% endfor %}
+                </p>
+                <time datetime=" datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%Y.%m.%d' }}</time>
+            </div>
+        </footer>
+    </article>
+{% endfor %}
+
+<div class="pagination">
+    <span class="page_number">{{ paginator.page }} / {{ paginator.total_pages }}</span>：
+    {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | replace: 'index.html', '' }}">前のページ</a>
+    {% endif %}
+    {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}">次のページ</a>
+    {% endif %}
+</div>
