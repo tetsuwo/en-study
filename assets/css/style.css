@@ -59,7 +59,7 @@ table {
 body {
     font-size: 16px;
     line-height: 1.6;
-    font-family: 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS UI Gothic', 'Lucida Grande', sans-serif;
+    font-family: Georgia, 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS UI Gothic', 'Lucida Grande', sans-serif;
     color: #333;
 }
 
@@ -257,7 +257,9 @@ input:hover, textarea:hover { background-color: #eee; outline: none; }
     line-height: 20px; 
     background-color: #11313D; 
     text-align: center;
-    font-family: 'Arial', sans-serif; font-weight: bold; text-decoration: none; 
+    font-family: Georgia, 'Arial', sans-serif;
+    font-weight: bold;
+    text-decoration: none; 
 }
 /* -- footer head/foot -- */
 #footer .head { margin-bottom: 3em; }
