@@ -46,16 +46,9 @@
         <!-- /Google AdSense -->
     </head>
     <body id="top">
-        <!-- Google Tag Manager (noscript) -->
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PQDBDL"
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-        <!-- End Google Tag Manager (noscript) -->
-        
-        <div id="fb-root"></div>
-
         <header id="header" class="clearfix">
             <hgroup>
-                <h1><a href="/">をぶろぐ</a></h1>
+                <h1><a href="/">en-study</a></h1>
             </hgroup>
         </header>
 
@@ -67,25 +60,6 @@
 
             <div id="sider" class="clearfix">
                 <div class="sider-inner">
-                    <!--
-                    <aside class="sider-group clearfix">
-                        <script language="javascript" type="text/javascript" src="https://b.hatena.ne.jp/js/widget.js" charset="utf-8"></script>
-                        <script language="javascript" type="text/javascript">
-                            Hatena.BookmarkWidget.url = "http://tetsuwo.tumblr.com";
-                            Hatena.BookmarkWidget.title = "Popular Articles";
-                            Hatena.BookmarkWidget.sort = "count";
-                            Hatena.BookmarkWidget.width = 0;
-                            Hatena.BookmarkWidget.num = 20;
-                            Hatena.BookmarkWidget.theme = "Hatena.BookmarkWidget";
-                            Hatena.BookmarkWidget.load();
-                        </script>
-                    </aside>
-                    -->
-
-                    <!--<section class="sider-group clearfix">
-                        <h1 class="sider-title">Categories</h1>
-                    </section>-->
-
                     {% assign tag_names = "" | split: "|"  %}
                     
                     {% for posts_by_tag in site.tags %}
@@ -103,13 +77,6 @@
                             {% endfor %}
                         </ul>
                     </section>
-                    
-                    <section class="sider-group clearfix">
-                        <h1 class="sider-title">リンク</h1>
-                        <ul>
-                            <li><a href="http://tetsuwo.tumblr.com">前のブログ</a></li>
-                        </ul>
-                    </section>
                 </div>
             </div>
             <!-- /#sider -->
@@ -120,45 +87,8 @@
         <footer id="footer" class="clearfix">
             <div class="footer-menu fixed-width clearfix">
                 <div class="pagetop"><a href="#top">PAGETOP</a></div>
-                <!--<div class="head clearfix">
-                    <nav>
-                        <h3>My Products</h3>
-                        <ul>
-                            <li><a href="https://chrome.google.com/webstore/detail/hclgegipaehbigmbhdpfapmjadbaldib">Website Blocker (Chrome.ext)</a></li>
-                            <li><a href="https://chrome.google.com/webstore/detail/gjlmabfkhojibpdhdcdkagiplbmkcgfd">JAPAN - Power Usage Checker (Chrome.ext)</a></li>
-                            <li><a href="https://chrome.google.com/webstore/detail/eiingmhoibigiplopcmepmahoihedjnk">Backyard (Chrome.ext)</a></li>
-                            <li><a href="https://chrome.google.com/webstore/detail/gdefhppjmapmooojcbdbbpgakejfnhec">Trello Checker (Chrome.ext)</a></li>
-                            <li><a href="https://chrome.google.com/webstore/detail/kbaamlaoekkcaebldgfmoogffhjhdpha">Markdownista (Chrome App)</a></li>
-                        </ul>
-                    </nav>
-                    <nav id="profile" class="profile">
-                        <h3>Profile</h3>
-                        <p class="fixmb">Tetsuwo OISHI - 1984/09/14<br>1984, Vimmer, JavaScript, Arsenal, Soccer, Football, Bergkamp</p>
-                        <ul>
-                            <li><a href="https://github.com/tetsuwo">GitHub</a></li>
-                            <li><a href="https://bitbucket.org/tetsuwo">Bitbucket</a></li>
-                            <li><a href="https://www.facebook.com/tetsuwo">Facebook</a></li>
-                            <li><a href="https://twitter.com/tetsukamp">Twitter</a></li>
-                            <li><a href="https://chrome.google.com/webstore/search?q=Tetsuwo+OISHI">Google Chrome Extensions</a></li>
-                        </ul>
-                    </nav>
-                    <nav>
-                        <h3 id="others">Others</h3>
-                        <ul>
-                            <li>
-                                <a href="https://b.hatena.ne.jp/entrylist?url=http://tetsuwo.tumblr.com/">
-                                    <img src="https://b.hatena.ne.jp/bc/bl/http://tetsuwo.tumblr.com/" class="bcounter" alt="Hatena">
-                                </a>
-                            </li>
-                        </ul>
-                    </nav>
-                </div>-->
-                <div class="copyright">
-                    &copy; <a href="/">Tetsuwo OISHI</a>.
-                </div>
             </div>
         </footer>
-
         <script src="/assets/vendor/webfontloader/1.6.28/webfontloader.js"></script>
         <script src="/assets/vendor/underscore/1.13.2/underscore-umd-min.js"></script>
         <script src="/assets/vendor/snap.svg/0.4.1/snap.svg-min.js"></script>
@@ -170,9 +100,5 @@
             {% endfor %}
         {% endif %}
         <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=tetsuwo"></script>
-        <!-- Amazon Publisher Studio/ -->
-        <script> var amzn_ps_tracking_id = "t5o-22"; </script>
-        <script async="true" type="text/javascript" src="//d35h7tny4b24fd.cloudfront.net/scripts/JP/studio.js"></script>
-        <!-- /Amazon Publisher Studio -->
     </body>
 </html>
