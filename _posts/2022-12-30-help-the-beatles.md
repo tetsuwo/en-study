@@ -151,7 +151,8 @@ Help!
 細かいこと気にしちゃうと訳せないからすっ飛ばしました。
 
 `haze` はクラフトビール好きな僕にはお誂え向き？な言葉ですよ :)  
-`vanish` は FF で知ってるのし、 `independence` は映画「Independence Day」で独立記念日だということも知っている。  
+`vanish` は FF のアレだろうということで理解。  
+`independence` は映画「Independence Day」で独立記念日だということも知っている。  
 それにプログラミングでも依存関係のあるライブラリーがあると `dependency` と良く表示されるので `in-` が付いてその逆だろうと。
 
 `insecure` は `HTTPS` の `Hypertext Transfer Protocol Secure` で「secure = 安心・安全」的なニュアンスの逆の意味だろうと。
