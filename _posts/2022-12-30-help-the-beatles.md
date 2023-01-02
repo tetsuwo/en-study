@@ -6,8 +6,27 @@ tags:
 - The Beatles
 ---
 
+## 前置き
 
-### Help! Lyrics
+行きつけのビアパブでアルバイトとして働いている女の子がいたのです。  
+その子は英語を話せるらしく、英語を学ぶならビートルズは入り易いですよ、的なニュアンスで教えてもらって早速勉強にとりかかっているわけです。  
+（動機の何と安直なことか・・・）
+
+そんなこんなはさておき「Help!」で英語を勉強していきますよ。
+
+
+## 本題
+
+The Beatles の名曲の「Help!」は 5 枚目のスタジオ・アルバム「Help!」として 1965 年にリリースされました[^helpwikipedia]。
+1965 年、日本では今ではお馴染みの「みどりの窓口」が開設されたり、麒麟麦酒が缶切り要らずの「プルトップ缶ビール」を販売開始したりと様々なことがあったようです[^1965]。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Q_ZzBGPdqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+----
+
+
+### Help! - Lyrics
 
 > (Help!) I need somebody  
 > (Help!) Not just anybody  
@@ -75,7 +94,7 @@ Help!
 
 助けられるのなら助けてよ、落ち込んでいるんだ  
 傍にいてくれるなら感謝するよ  
-地に足をつけるから助けてよ  
+ちゃんとするから助けてよ  
 どうかお願いだから助けてよ
 
 > And now my life has changed in oh so many ways  
@@ -89,4 +108,7 @@ Help!
 わかってるさ、僕は君を必要としているんだ、いままでにないくらい
 
 
+----
 
+[^helpwikipedia]: [Help! - Wikipedia](https://en.wikipedia.org/wiki/Help!) - last edited on 1 January 2023, at 03:36 (UTC).
+[^1965]: [1965年 - Wikipedia](https://ja.wikipedia.org/wiki/1965%E5%B9%B4) - 最終更新 2022年12月5日 (月) 03:35
