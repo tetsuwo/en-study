@@ -8,6 +8,9 @@ tags:
 
 （まだ途中だよ）
 
+
+<!-- more -->
+
 ### To Be With You の歌詞
 
 > Hold on little girl  
