@@ -23,7 +23,8 @@ title: 英語の「を」時間
                     {% endfor %}
                 </p>
                 -->
-                <time datetime=" datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%Y.%m.%d' }}</time>
+                <time datetime="{{ page.last_modified_at | date: '%Y-%m-%d' }}">最終更新日: {{ page.last_modified_at | date: '%Y.%m.%d' }}</time>
+                <time datetime="{{ page.date | date: '%Y-%m-%d' }}">公開日: {{ page.date | date: '%Y.%m.%d' }}</time>
             </div>
         </footer>
     </article>
