@@ -85,6 +85,20 @@ hr { border-width: 1px 0px 0px 0px; border-style: dotted; border-color: #666; he
 ul { list-style-position: inside; }
 ol { list-style-position: inside; }
 
+/* FOOTNOTE */
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+sup [rel="footnote"]:before {
+    content: "[";
+}
+sup [rel="footnote"]:after {
+    content: "]";
+}
+
 /* CLEARFIX */
 .clearfix:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
 .clearfix{ display: inline-block; min-height: 1%; }
