@@ -6,10 +6,11 @@ tags:
 - The Beatles
 ---
 
+
 ## 前置き
 
-行きつけのビアパブでアルバイトとして働いている女の子がいたのです。  
-その子は英語を話せるらしく、英語を学ぶならビートルズは入り易いですよ、的なニュアンスで教えてもらって早速勉強にとりかかっているわけです。  
+行きつけのビアパブでアルバイトとして働いている女の子（以下、先生）がいまして。  
+その先生は英語を話せるらしく、英語を学ぶならビートルズは入り易いですよ、的なニュアンスで教えてもらって早速英語の勉強にとりかかっているわけです。  
 （動機の何と安直なことか・・・）
 
 ### 余談
@@ -18,6 +19,8 @@ The Beatles の名曲の「Help!」は 5 枚目のスタジオ・アルバム「
 ついでに 1965 年の日本では何があったかというと、今ではお馴染みの「みどりの窓口」が開設されたり、麒麟麦酒が缶切り要らずの「プルトップ缶ビール」を販売開始したりと様々なことがあったようです[^1965]。  
 （気になったものしかピックアップしてません 😃）
 
+ぼくは生まれてもないこんな前に名曲が創られ、その時代の人たちに聴かれていたと考えると何だか凄いなーと思うしかないです。
+
 #### Help! を知らない人向けに
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2Q_ZzBGPdqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -25,6 +28,7 @@ The Beatles の名曲の「Help!」は 5 枚目のスタジオ・アルバム「
 ----
 
 そんなこんなはさておき「Help!」で英語を勉強していきますよ。
+（何回も訳し直しているのでちょこちょこ変わるかもしれません）
 
 
 ## 本題
@@ -36,7 +40,7 @@ The Beatles の名曲の「Help!」は 5 枚目のスタジオ・アルバム「
 > (Help!) You know I need someone  
 > Help!
 > 
-> When I was younger so much younger than today  
+> When I was younger, so much younger than today  
 > I never needed anybody's help in any way  
 > But now these days are gone, I'm not so self assured  
 > Now I find I've changed my mind and opened up the doors
@@ -70,7 +74,7 @@ The Beatles の名曲の「Help!」は 5 枚目のスタジオ・アルバム「
 
 ### 和訳
 
-恥ずかしいですが、自分なりに訳していきます 😎
+恥ずかしいですが、自分なりに訳していきますよ 😎
 
 > (Help!) I need somebody  
 > Help! Not just anybody  
@@ -84,15 +88,13 @@ Help!
 
 #### ちょいと小話
 
-冒頭で触れている教えてくれた子が、ここの `Some` と `Any` の使い分けが勉強になりますよ、と言ってくれました。  
+先生が、ここの `Some` と `Any` の使い分けが勉強になりますよ、と言ってくれました。  
 個人的にはここの節だけみるならば `Some` は肯定で使われ、 `Any` は否定で使われるように見えました。  
 例外があったら申し訳ないです。  
-そんなの咄嗟の会話で判断つくのだろうか 🤔
-
-（`Somebody` = 誰か、 `Anybody` = 誰でも）
+しかし、そんなの咄嗟の会話で判断つくのだろうか 🤔 慣れなの？
 
 
-> When I was younger so much younger than today  
+> When I was younger, so much younger than today  
 > I never needed anybody's help in any way  
 > But now these days are gone, I'm not so self assured  
 > Now I find I've changed my mind and opened up the doors
@@ -102,15 +104,36 @@ Help!
 でも今これらの日々は過ぎ去り、僕は自信をなくしたよ  
 見つけたんだ、心に変化があったんだ、そしてドアを開けたんだ
 
+#### ちょいと小話
+
+`anybody` 出ましたね。  
+`never` で強い否定が入っているので「`somebody` = 誰の」ではなく `anybody` なのでしょうか 🤔  
+強く言えないが訳せはするので素通りしやす。
+
+`these days are gone` は「これらの日々はどっか行っちゃった」的なニュアンスかと思います。
+
+
 > Help me if you can, I feeling down  
 > And I do appreciate you being around  
 > Help me get my feet back on the ground  
 > Won’t you please, please help me
 
-助けられるのなら助けてよ、落ち込んでいるんだ  
+できるのならば助けてよ、落ち込んでいるんだ  
 傍にいてくれるなら感謝するよ  
 ちゃんとするから助けてよ  
 どうかお願いだから助けてよ
+
+#### ちょいと小話
+
+`feeling down` は感覚的に「落ち込んでいる」かなと。  
+次の `And I do appreciate you being around` の `around` のところは歌詞を載せているサイトによっては `'round` だったりするのですが、これは `never` で強い否定が入っているので「`somebody` = 誰の」ではなく `anybody` なのでしょうか 🤔  
+強く言えないが訳せはするので素通りしやす。
+
+`these days are gone` は「これらの日々はどっか行っちゃった」的なニュアンスかと思います。
+
+`get my feet back on the ground` は `back` の訳し方がよく分からないが `ground` の上に自身の足を得るなので「地に足をつける」的なニュアンスで訳していました。  
+でも歌詞っぽいのがいいなーと思いつつ、何回か訳していると「ちゃんとする」でもいいのではないか、と思ってそうしちゃいました。
+
 
 > And now my life has changed in oh so many ways  
 > My independence seems to vanish in the haze  
@@ -121,6 +144,19 @@ Help!
 僕の自立心は霧の中に消え去ったんだ  
 でも度々とても不安になるんだ  
 わかってるさ、僕は君を必要としているんだ、いままでにないくらい
+
+#### ちょいと小話
+
+`oh so many ways` の `oh` は一体なんなの・・・。  
+細かいこと気にしちゃうと訳せないからすっ飛ばしました。
+
+`haze` はクラフトビール好きな僕にはお誂え向き？な言葉ですよ :)  
+`vanish` は FF で知ってるのし、 `independence` は映画「Independence Day」で独立記念日だということも知っている。  
+それにプログラミングでも依存関係のあるライブラリーのことを dependencies library と良く表示されるので in が付いて逆だろうと。
+
+`insecure` は HTTPS の S の secure = 安心・安全的なニュアンスの逆の意味だろうと。
+
+でも
 
 
 ----
