@@ -13,8 +13,8 @@ layout: main
                 {% endfor %}
             </p>
             -->
-            公開日: <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%Y.%m.%d' }}</time>,
-            最終更新日:  <time datetime="{{ page.last_modified_at | date: '%Y-%m-%d' }}">{{ page.last_modified_at | date: '%Y.%m.%d' }}</time>
+            <time datetime="{{ page.last_modified_at | date: '%Y-%m-%d' }}">最終更新日: {{ page.last_modified_at | date: '%Y.%m.%d' }}</time>, 
+            <time datetime="{{ page.date | date: '%Y-%m-%d' }}">公開日: {{ page.date | date: '%Y.%m.%d' }}</time>
         </div>
     </header>
     <div class="post-body clearfix">{{ content }}</div>
