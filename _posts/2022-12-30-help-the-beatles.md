@@ -12,21 +12,24 @@ tags:
 その子は英語を話せるらしく、英語を学ぶならビートルズは入り易いですよ、的なニュアンスで教えてもらって早速勉強にとりかかっているわけです。  
 （動機の何と安直なことか・・・）
 
+### 余談
+
+The Beatles の名曲の「Help!」は 5 枚目のスタジオ・アルバム「Help!」として 1965 年にリリースされました[^helpwikipedia]。  
+ついでに 1965 年の日本では何があったかというと、今ではお馴染みの「みどりの窓口」が開設されたり、麒麟麦酒が缶切り要らずの「プルトップ缶ビール」を販売開始したりと様々なことがあったようです[^1965]。  
+（気になったものしかピックアップしてません 😃）
+
+#### Help! を知らない人向けに
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Q_ZzBGPdqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----
+
 そんなこんなはさておき「Help!」で英語を勉強していきますよ。
 
 
 ## 本題
 
-The Beatles の名曲の「Help!」は 5 枚目のスタジオ・アルバム「Help!」として 1965 年にリリースされました[^helpwikipedia]。
-1965 年、日本では今ではお馴染みの「みどりの窓口」が開設されたり、麒麟麦酒が缶切り要らずの「プルトップ缶ビール」を販売開始したりと様々なことがあったようです[^1965]。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Q_ZzBGPdqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-----
-
-
-### Help! - Lyrics
+### Help! の歌詞
 
 > (Help!) I need somebody  
 > (Help!) Not just anybody  
@@ -67,6 +70,8 @@ The Beatles の名曲の「Help!」は 5 枚目のスタジオ・アルバム「
 
 ### 和訳
 
+恥ずかしいですが、自分なりに訳していきます 😎
+
 > (Help!) I need somebody  
 > Help! Not just anybody  
 > Help! You know I need someone  
@@ -76,6 +81,16 @@ The Beatles の名曲の「Help!」は 5 枚目のスタジオ・アルバム「
 (Help!) 誰でも良いわけじゃないんだ  
 (Help!) 分かるだろ、誰かが必要なんだよ  
 Help!
+
+#### ちょいと小話
+
+冒頭で触れている教えてくれた子が、ここの `Some` と `Any` の使い分けが勉強になりますよ、と言ってくれました。  
+個人的にはここの節だけみるならば `Some` は肯定で使われ、 `Any` は否定で使われるように見えました。  
+例外があったら申し訳ないです。  
+そんなの咄嗟の会話で判断つくのだろうか 🤔
+
+（`Somebody` = 誰か、 `Anybody` = 誰でも）
+
 
 > When I was younger so much younger than today  
 > I never needed anybody's help in any way  
