@@ -24,7 +24,7 @@ tags:
 > (Deep inside I hope you feel it too)  
 > Feel it too  
 > (Waited on a line of greens and blues)  
-> Waited on a line
+> Waited on a line  
 > Just to be the next to be with you
 >
 > Build up your confidence  
@@ -33,7 +33,7 @@ tags:
 > Little boys that talk too much
 > 
 > I've seen it all go down  
-> Your game of love was all rained out
+> Your game of love was all rained out  
 > So come on baby, come on over  
 > Let me be the one to hold you
 > 
@@ -41,7 +41,7 @@ tags:
 > (Deep inside I hope you feel it too)  
 > Feel it too  
 > (Waited on a line of greens and blues)  
-> Waited on a line
+> Waited on a line  
 > Just to be the next to be with you
 > 
 > Why be along when can be together baby  
@@ -57,15 +57,15 @@ tags:
 > (Deep inside I hope you feel it too)  
 > Feel it too  
 > (Waited on a line of greens and blues)  
-> Waited on a line
+> Waited on a line  
 > Just to be the next to be with you
 > 
 > (I'm the one who wants to be with you)  
 > (Deep inside I hope you feel it too)  
 > Feel it too  
 > (Waited on a line of greens and blues)  
-> Waited on a line
-> Just to be the next to be with you
+> Waited on a line  
+> Just to be the next to be with you  
 > Just to be the next to be with you
 
 
