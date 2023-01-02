@@ -1,6 +1,6 @@
 ---
 layout: main
-title: 英語のおべんきょ
+title: 英語の「を」時間
 ---
 
 {% for post in paginator.posts %}
@@ -8,22 +8,21 @@ title: 英語のおべんきょ
         <header class="post-head clearfix">
             <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
         </header>
-        
         <div class="post-body clearfix">{{ post.content | split:"<!-- more -->" | first }}</div>
-        
         {% if post.content contains "<!-- more -->" %}
             <div class="post-body clearfix">
                 <a href="{{ post.url }}">つづきをみる</a>
             </div>
         {% endif %}
-
         <footer class="post-foot clearfix">
             <div class="clearfix">
+                <!--
                 <p class="tags">
                     {% for tag in post.tags %}
                         <a href="/tag/{{ tag }}">{{ tag }}</a>
                     {% endfor %}
                 </p>
+                -->
                 <time datetime=" datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%Y.%m.%d' }}</time>
             </div>
         </footer>
