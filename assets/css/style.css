@@ -458,6 +458,16 @@ article.permalink .post-body { margin-bottom: 2em; }
         float: right;
     }
 
+/* -- YouTube -- */
+.u-youtube {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+.u- youtube iframe {
+  width: 100%;
+  height: 100%;
+}
+
 /* -- social plugin -- */
 .post-social-plugin {
     margin: 1em 0;
