@@ -7,11 +7,13 @@ layout: main
     <header class="post-head clearfix">
         <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
         <div class="clearfix" style="margin-top:10px;">
+            <!--
             <p class="tags">
                 {% for tag in page.tags %}
                 <a href="/tag/{{ tag }}">{{ tag }}</a>
                 {% endfor %}
             </p>
+            -->
             <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%Y.%m.%d' }}</time>
         </div>
     </header>
