@@ -101,7 +101,7 @@ Help!
 > But now these days are gone, I'm not so self assured  
 > Now I find I've changed my mind and opened up the doors
 
-僕が今よりももっと若かった頃のこと  
+僕が分かった頃、今よりももっと若かった頃  
 僕は誰の助けも必要としてなかった  
 でも今これらの日々は過ぎ去り、僕は自信をなくしたよ  
 見つけたんだ、心に変化があったんだ、そしてドアを開けたんだ
