@@ -316,7 +316,7 @@ pre a, pre a:visited, pre a:hover {
 blockquote {
     border-left: 5px solid #dfdfdf;
     padding: .5em .75em;
-    margin: 1em 1em 1.5em;
+    margin: 2.5em .25em 1em;
     font-size: 90%;
 }
 blockquote:before, blockquote:after {
@@ -385,7 +385,6 @@ article.permalink .post-body { margin-bottom: 2em; }
 .post-body p { margin: .5em 0 1em; }
 .post-body img { padding: .5em; border: 1px solid #ddd; }
 .post-body > p + img,
-.post-body > p + blockquote,
 .post-body > p + pre { margin-top: -1em; }
 
 .post-body ol,
