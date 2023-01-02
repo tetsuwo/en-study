@@ -13,7 +13,7 @@ layout: main
                 {% endfor %}
             </p>
             -->
-            <time datetime="{{ page.last_modified_at | date: '%Y-%m-%d' }}">最終更新日: {{ page.last_modified_at | date: '%Y.%m.%d' }}</time>, 
+            <time datetime="{{ page.last_modified_at | date: '%Y-%m-%d' }}">最終更新日: {{ page.last_modified_at | date: '%Y.%m.%d' }}</time>
             <time datetime="{{ page.date | date: '%Y-%m-%d' }}">公開日: {{ page.date | date: '%Y.%m.%d' }}</time>
         </div>
     </header>
@@ -30,7 +30,8 @@ layout: main
                 {% endfor %}
             </p>
             -->
-            <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%Y.%m.%d' }}</time>
+            <time datetime="{{ page.last_modified_at | date: '%Y-%m-%d' }}">最終更新日: {{ page.last_modified_at | date: '%Y.%m.%d' }}</time>
+            <time datetime="{{ page.date | date: '%Y-%m-%d' }}">公開日: {{ page.date | date: '%Y.%m.%d' }}</time>
         </div>
     </footer>
 </article>
