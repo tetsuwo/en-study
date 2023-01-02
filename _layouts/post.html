@@ -2,7 +2,6 @@
 layout: main
 ---
 
-
 <article class="post post-text clearfix">
     <header class="post-head clearfix">
         <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
@@ -23,11 +22,13 @@ layout: main
     </div>
     <footer class="post-foot clearfix">
         <div class="clearfix">
+            <!--
             <p class="tags">
                 {% for tag in page.tags %}
                 <a href="/tag/{{ tag }}">{{ tag }}</a>
                 {% endfor %}
             </p>
+            -->
             <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%Y.%m.%d' }}</time>
         </div>
     </footer>
