@@ -42,13 +42,14 @@ tags:
 > Let me be the one to hold you
 > 
 > (I'm the one who wants to be with you)  
+> I'm the one, yeah  
 > (Deep inside I hope you feel it too)  
 > Feel it too  
 > (Waited on a line of greens and blues)  
 > Waited on a line  
 > Just to be the next to be with you
 > 
-> Why be along when can be together baby  
+> Why be along when we can be together baby  
 > You can make my life worthwhile  
 > And I can make you start to smile
 > 
@@ -58,6 +59,7 @@ tags:
 > Let me be the one to show you
 > 
 > (I'm the one who wants to be with you)  
+> I'm the one  
 > (Deep inside I hope you feel it too)  
 > Feel it too  
 > (Waited on a line of greens and blues)  
@@ -65,6 +67,7 @@ tags:
 > Just to be the next to be with you
 > 
 > (I'm the one who wants to be with you)  
+> I'm the one  
 > (Deep inside I hope you feel it too)  
 > Feel it too  
 > (Waited on a line of greens and blues)  
