@@ -34,7 +34,7 @@ tags:
 CD はもっと前からあったように思うので、姉が高校生のときに手に入れたんでしょうかね。  
 （スーパーのレジでアルバイトして、家にお金を入れていた姉のことを思い出しますね...）
 
-姉が聴き始めるきっかけは、きっと当時、気になっていた人や何やらからオススメされたのだろうか 🤔
+姉が聴き始めるきっかけは、きっと当時、気になっていた人や何やらからオススメされたのだろうか 🤔  
 （あんまり深追いしたくないが、今度機会があったら何で知ったのか軽く聞いてみよう）
 
 そんな「To Be With You [^ToBeWithYou_wikipedia]」ですが、1991 年に米国でリリースされ、同年の日本のオリコンでは 6 位と日本でも知られるきっかけになったのでしょう。  
@@ -54,7 +54,7 @@ CD はもっと前からあったように思うので、姉が高校生のと�
 
 ----
 
-されされ「To Be With You」で英語を勉強していきますよ。  
+さてさて「To Be With You」で英語を勉強していきますよ。  
 （何回も訳し直しているのでちょこちょこ変わるかもしれません）
 
 
@@ -131,10 +131,22 @@ CD はもっと前からあったように思うので、姉が高校生のと�
 > Stand up little girl  
 > A broken heart can't be that bad
 
+こっちにおいでよ  
+彼が君に何をしたっていうんだ  
+立ち上がりなよ  
+失恋はそんなに悪いものじゃないよ
+
+
 > When it's through, it's through  
 > Fate will twist the both of you  
 > So come on baby, come on over  
 > Let me be the one to show you
+
+過ぎたこと、そう過ぎたことさ  
+運命が二人を引き離したんだろう  
+だからこっちにおいてよ、さあおいで  
+君に合うことを証明させてよ
+
 
 > (I'm the one who wants to be with you)  
 > (Deep inside I hope you feel it too)  
@@ -143,19 +155,42 @@ CD はもっと前からあったように思うので、姉が高校生のと�
 > Waited on a line  
 > Just to be the next to be with you
 
+僕は君と一緒になりたいんだ  
+心の奥底で君もそう思ってくれてたらなぁ  
+嫉妬と憂鬱の列で待っているよ  
+今度こそ君と一緒になれたらな
+
+
 > Build up your confidence  
 > So you can be on top for once  
 > Wake up who cares about  
 > Little boys that talk too much
+
+自信を持つんだ  
+トップになれないときだってあるさ  
+目を覚ませよ  
+あいつらはお喋りしすぎなのさ
+
 
 > I've seen it all go down  
 > Your game of love was all rained out  
 > So come on baby, come on over  
 > Let me be the one to hold you
 
+xxxxxxx  
+君の恋は雨に流されたんだ  
+だからこっちにおいで、さあ  
+抱きしめるから
+
+
 > Why be along when we can be together baby  
 > You can make my life worthwhile  
 > And I can make you start to smile
+
+なぜ一人なの？ 一緒になろうよ  
+君は僕の人生を価値あるものにできる  
+そして僕が君を笑顔にするよ
+
 
 ----
 
