@@ -97,7 +97,7 @@ CD はもっと前からあったように思うので、姉が高校生のと�
 > Waited on a line  
 > Just to be the next to be with you
 > 
-> Why be along when we can be together baby  
+> Why be alone when we can be together baby  
 > You can make my life worthwhile  
 > And I can make you start to smile
 > 
