@@ -3,6 +3,8 @@ layout: post
 title: "Good Riddance (Time Of Your Life) - Green Day"
 date: 2023-01-04 04:00:00 +0900
 last_modified_at: 2023-01-04 04:00:00 +0900
+categories:
+- Lyrics
 tags:
 - Green Day
 ---
