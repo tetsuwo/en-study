@@ -3,6 +3,8 @@ layout: post
 title: "Help! - The Beatles"
 date: 2022-12-30 23:00:00 +0900
 last_modified_at: 2023-01-04 02:00:00 +0900
+categories:
+- Lyrics
 tags:
 - The Beatles
 ---
