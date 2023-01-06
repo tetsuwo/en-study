@@ -2,7 +2,7 @@
 layout: post
 title: "To Be With You - MR. BIG を和訳して英語の勉強"
 date: 2023-01-02 10:00:00 +0900
-last_modified_at: 2023-01-05 19:00:00 +0900
+last_modified_at: 2023-01-06 19:00:00 +0900
 categories:
 - Lyrics
 tags:
@@ -131,7 +131,7 @@ CD はもっと前からあったように思うので、姉が高校生のと�
 > Stand up little girl  
 > A broken heart can't be that bad
 
-こっちにおいでよ  
+元気をだしなよ 
 彼が君に何をしたっていうんだ  
 立ち上がるんだ  
 失恋はそんなに悪いものじゃないよ
@@ -190,6 +190,34 @@ CD はもっと前からあったように思うので、姉が高校生のと�
 僕らは一緒になれるのになぜ一人なんだい？  
 君は僕の人生を価値あるものにできるんだ  
 そして僕がまた君を笑顔にするよ
+
+
+### 解説
+
+>> **Hold on** little girl  
+>> **Show me what he's done to yo**u  
+>> Stand up little girl  
+>> **A broken heart can't be that bad**
+> 
+> 元気をだしなよ  
+> 彼が君に何をしたっていうんだ  
+> 立ち上がるんだ  
+> 失恋はそんなに悪いものじゃないよ
+
+##### Hold on
+
+`hold on` は「続けていく」「持続する」「ふんばる」的な意味があるので、ここでは「ふんばる」を採用して「元気をだしなよ」にしてみました。
+
+#### Show me what he's done to you
+
+`Show me` で、僕に教えてくれ、 `what he's done to you` は `done to you` で「あなたにしたこと」なので「彼が君に何をしたっていうんだ」としました。
+
+
+##### A broken heart can't be that bad
+
+- `A broken heart` は「失恋」
+- `that bad` は「そんなに悪い」
+- なので「失恋はそんなに悪いものじゃないよ」としました
 
 
 ----
