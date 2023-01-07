@@ -32,6 +32,18 @@ tags:
   <iframe width="320" height="180" src="https://www.youtube.com/embed/CnQ8N1KacJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+Howard Stern Show に出たときの
+
+<div class="u-youtube">
+  <iframe width="320" height="180" src="https://www.youtube.com/embed/rWfB4-Wr4Oo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+日本にライブしにきたときの
+
+<div class="u-youtube">
+  <iframe width="320" height="180" src="https://www.youtube.com/embed/6KOPxFznbFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ----
 
 
