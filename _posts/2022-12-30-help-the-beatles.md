@@ -99,13 +99,6 @@ The Beatles の名曲の「Help!」は 5 枚目のスタジオ・アルバム「
 (Help!) 分かるだろ、誰かが必要なんだよ  
 Help!
 
-#### ちょいと小話
-
-先生が、ここの `Some` と `Any` の使い分けが勉強になりますよ、と言ってくれました。  
-個人的にはここの節だけみるならば `Some` は肯定で使われ、 `Any` は否定で使われるように見えました。  
-例外があったら申し訳ないです 🙏  
-しかし、そんなの咄嗟の会話で判断つくのだろうか 🤔 慣れなの？
-
 
 > When I was younger, so much younger than today  
 > I never needed anybody's help in any way  
@@ -115,15 +108,7 @@ Help!
 僕が若かった頃、今よりももっともっと若かった頃のことさ  
 僕は誰のどんな助けも必要としてなかった  
 でも今はこれらの日々は過ぎ、僕は自信をなくしたんだ  
-見つけたんだ、~心に変化があったんだ~考え方が変わったんだ、そしてドアを開けたんだ
-
-#### ちょいと小話
-
-`anybody` 出ましたね。  
-`never` で強い否定が入っているので「`somebody` = 誰の」ではなく `anybody` なのでしょうか 🤔  
-強く言えないですが「訳せ」はするので素通りしやす。
-
-`these days are gone` は「これらの日々はどっか行っちゃった」的なニュアンスかと思います。
+見つけたんだ、考え方が変わったんだ、そしてドアを開けたんだ
 
 
 > Help me if you can, I feeling down  
@@ -136,16 +121,6 @@ Help!
 ちゃんとするから助けてよ  
 どうかお願いだ、助けてくれ
 
-#### ちょいと小話
-
-`feeling down` は感覚的に「落ち込んでいる」かなと。  
-次の `And I do appreciate you being around` の `around` のところは歌詞を載せているサイトによっては `'round` だったりするのですが、これは先生曰く `around` の省略なのではないか、とのこと。  
-実際には入るはずの音が聴こえない場合にもこのアポストロフィを使うとのことだ  
-たまに仕事で英語のドキュメントを読むときに見かけてたので「なるほど」と流石先生・・・。
-
-`get my feet back on the ground` は `back` の訳し方がよく分からないが `ground` の上に自身の足を得るなので「地に足をつける」的なニュアンスで訳していました。  
-でも歌詞っぽいのがいいなーと思いつつ、何回か訳していると「ちゃんとする」でもいいのではないか、と思ってそうしちゃいました。
-
 
 > And now my life has changed in oh so many ways  
 > My independence seems to vanish in the haze  
@@ -157,23 +132,117 @@ Help!
 でも時々とても不安になるんだ  
 わかってるさ、僕は君を必要としているんだ、いままでにないくらい
 
-#### ちょいと小話
+
+### 解説
+
+>> (Help!) I need somebody  
+>> Help! Not just anybody  
+>> Help! You know I need someone  
+>> Help!
+>
+> (Help!) 誰かが必要なんだ  
+> (Help!) 誰でも良いわけじゃないんだ  
+> (Help!) 分かるだろ、誰かが必要なんだよ  
+> Help!
+
+#### `some` と `any`
+
+先生が、ここの `Some` と `Any` の使い分けが勉強になりますよ、と言ってくれました。  
+個人的にはここの節だけみるならば `Some` は肯定で使われ、 `Any` は否定で使われるように見えました。  
+例外があったら申し訳ないです 🙏  
+しかし、そんなの咄嗟の会話で判断つくのだろうか 🤔 慣れなの？
+
+
+>> When I was younger, so much younger than today  
+>> I never needed anybody's help in any way  
+>> But now these days are gone, I'm not so self assured  
+>> Now I find I've changed my mind and opened up the doors
+> 
+> 僕が若かった頃、今よりももっともっと若かった頃のことさ  
+> 僕は誰のどんな助けも必要としてなかった  
+> でも今はこれらの日々は過ぎ、僕は自信をなくしたんだ  
+> 見つけたんだ、考え方が変わったんだ、そしてドアを開けたんだ
+
+#### anybody
+
+`anybody` 出ましたね。  
+`never` で強い否定が入っているので「`somebody` = 誰の」ではなく `anybody` なのでしょうか 🤔  
+強く言えないですが「訳せ」はするので素通りしやす。
+
+#### these days are gone
+
+`these days are gone` は「これらの日々はどっか行っちゃった」的なニュアンスかと思います。
+
+#### I've changed my mind
+
+最初は「心に変化があったんだ」と訳していましたが「考え方が変わったんだ」の方がしっくりきたので変えました。
+
+
+>> Help me if you can, I feeling down  
+>> And I do appreciate you being around  
+>> Help me get my feet back on the ground  
+>> Won’t you please, please help me
+> 
+> できるのならば助けてよ、落ち込んでいるんだ  
+> だから傍にいてくれるなら感謝するよ  
+> ちゃんとするから助けてよ  
+> どうかお願いだ、助けてくれ
+
+#### feeling down
+
+`feeling down` は感覚的に「落ち込んでいる」かなと。
+
+#### around と 'round
+
+`And I do appreciate you being around` の `around` のところは歌詞を載せているサイトによっては `'round` だったりするのですが、これは先生曰く `around` の省略なのではないか、とのこと。  
+実際には入るはずの音が聴こえない場合にもこのアポストロフィを使うとのことだ  
+たまに仕事で英語のドキュメントを読むときに見かけてたので「なるほど」と流石先生・・・。
+
+#### get my feet back on the ground
+
+`get my feet back on the ground` は `back` の訳し方がよく分からないが `ground` の上に自身の足を得るなので「地に足をつける」的なニュアンスで訳していました。  
+でも歌詞っぽいのがいいなーと思いつつ、何回か訳していると「ちゃんとする」でもいいのではないか、と思ってそうしちゃいました。
+
+
+>> And now my life has changed in oh so many ways  
+>> My independence seems to vanish in the haze  
+>> But every now and then I feel so insecure  
+>> I know that I just need you like I’ve never done before
+> 
+> 僕の生活は色々と変わってしまった  
+> 僕の自立心は霧の中に消え去ったんだ  
+> でも時々とても不安になるんだ  
+> わかってるさ、僕は君を必要としているんだ、いままでにないくらい
+
+#### oh so many ways
 
 `oh so many ways` の `oh` は一体なんなの・・・。  
 細かいこと気にしちゃうと訳せないからすっ飛ばしました。
 
+#### every now and then
+
 `every now and then` は「時々」という意味らしい。勝手に「度々」と訳してしまっていた。
+
+#### haze
 
 `haze` はクラフトビール好きな僕にはお誂え向き？な言葉ですよ :)
 
+#### vanish
+
 `vanish` は FF のアレだろうということで理解。
+
+#### independence
 
 `independence` は映画「Independence Day」で独立記念日だということも知っている。  
 それにプログラミングでも依存関係のあるライブラリーがあると `dependency` と良く表示されるので `in-` が付いてその逆だろうと。
 
+#### insecure
+
 `insecure` は `HTTPS` の `Hypertext Transfer Protocol Secure` で「secure = 安心・安全」的なニュアンスの逆の意味だろうと。
 
-でも次の一文の `I’ve never done before` は分からなかった・・・  
+#### I’ve never done before
+
+`I’ve never done before` は分からなかった・・・  
 これは先生に助けてもらいました。  
 `have done` で「〜したことがある、〜を経験したことがある」という意味になるらしく `like` が「のような」なので「以前にこれまで一度も経験したことがないような」となり、少し崩して「いままでにないくらい」としてみました。
 
