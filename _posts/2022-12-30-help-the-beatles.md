@@ -11,6 +11,7 @@ tags:
 
 
 ## 目次
+{:.no_toc}
 
 1. The generated Toc will be an ordered list
 {:toc}
@@ -146,6 +147,7 @@ Help!
 > Help!
 
 #### `some` と `any`
+{:.no_toc}
 
 先生が、ここの `Some` と `Any` の使い分けが勉強になりますよ、と言ってくれました。  
 個人的にはここの節だけみるならば `Some` は肯定で使われ、 `Any` は否定で使われるように見えました。  
@@ -164,16 +166,19 @@ Help!
 > 見つけたんだ、考え方が変わったんだ、そしてドアを開けたんだ
 
 #### anybody
+{:.no_toc}
 
 `anybody` 出ましたね。  
 `never` で強い否定が入っているので「`somebody` = 誰の」ではなく `anybody` なのでしょうか 🤔  
 強く言えないですが「訳せ」はするので素通りしやす。
 
 #### these days are gone
+{:.no_toc}
 
 `these days are gone` は「これらの日々はどっか行っちゃった」的なニュアンスかと思います。
 
 #### I've changed my mind
+{:.no_toc}
 
 最初は「心に変化があったんだ」と訳していましたが「考え方が変わったんだ」の方がしっくりきたので変えました。
 
@@ -189,16 +194,19 @@ Help!
 > どうかお願いだ、助けてくれ
 
 #### feeling down
+{:.no_toc}
 
 `feeling down` は感覚的に「落ち込んでいる」かなと。
 
 #### around と 'round
+{:.no_toc}
 
 `And I do appreciate you being around` の `around` のところは歌詞を載せているサイトによっては `'round` だったりするのですが、これは先生曰く `around` の省略なのではないか、とのこと。  
 実際には入るはずの音が聴こえない場合にもこのアポストロフィを使うとのことだ  
 たまに仕事で英語のドキュメントを読むときに見かけてたので「なるほど」と流石先生・・・。
 
 #### get my feet back on the ground
+{:.no_toc}
 
 `get my feet back on the ground` は `back` の訳し方がよく分からないが `ground` の上に自身の足を得るなので「地に足をつける」的なニュアンスで訳していました。  
 でも歌詞っぽいのがいいなーと思いつつ、何回か訳していると「ちゃんとする」でもいいのではないか、と思ってそうしちゃいました。
@@ -215,32 +223,39 @@ Help!
 > わかってるさ、僕は君を必要としているんだ、いままでにないくらい
 
 #### oh so many ways
+{:.no_toc}
 
 `oh so many ways` の `oh` は一体なんなの・・・。  
 細かいこと気にしちゃうと訳せないからすっ飛ばしました。
 
 #### every now and then
+{:.no_toc}
 
 `every now and then` は「時々」という意味らしい。勝手に「度々」と訳してしまっていた。
 
 #### haze
+{:.no_toc}
 
 `haze` はクラフトビール好きな僕にはお誂え向き？な言葉ですよ :)
 
 #### vanish
+{:.no_toc}
 
 `vanish` は FF のアレだろうということで理解。
 
 #### independence
+{:.no_toc}
 
 `independence` は映画「Independence Day」で独立記念日だということも知っている。  
 それにプログラミングでも依存関係のあるライブラリーがあると `dependency` と良く表示されるので `in-` が付いてその逆だろうと。
 
 #### insecure
+{:.no_toc}
 
 `insecure` は `HTTPS` の `Hypertext Transfer Protocol Secure` で「secure = 安心・安全」的なニュアンスの逆の意味だろうと。
 
 #### I’ve never done before
+{:.no_toc}
 
 `I’ve never done before` は分からなかった・・・  
 これは先生に助けてもらいました。  
