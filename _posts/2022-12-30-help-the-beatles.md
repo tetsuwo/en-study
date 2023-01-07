@@ -9,6 +9,9 @@ tags:
 - The Beatles
 ---
 
+*
+TOC {:toc}
+
 
 ## 前置き
 
