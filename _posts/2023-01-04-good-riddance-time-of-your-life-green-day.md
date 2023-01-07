@@ -2,7 +2,7 @@
 layout: post
 title: "Good Riddance (Time Of Your Life) - Green Day"
 date: 2023-01-04 04:00:00 +0900
-last_modified_at: 2023-01-04 04:00:00 +0900
+last_modified_at: 2023-01-07 18:00:00 +0900
 categories:
 - Lyrics
 tags:
@@ -11,16 +11,19 @@ tags:
 
 
 ## 前置き
+{:.no_toc}
 
 （未だ途中ですよ）
 
 <!-- more -->
 
 ### 余談
+{:.no_toc}
 
 （未だ途中ですよ）
 
 #### Good Riddance (Time Of Your Life) を知らない人向けに
+{:.no_toc}
 
 <div class="u-youtube">
 （未だ途中ですよ）
@@ -32,6 +35,12 @@ tags:
 
 
 ## 本題
+
+### 目次
+{:.no_toc}
+
+1. The generated Toc will be an ordered list
+{:toc}
 
 ### Good Riddance (Time Of Your Life) の歌詞
 
@@ -83,6 +92,11 @@ tags:
 
 > It’s something unpredictable, but in the end it’s right  
 > I hope you had the time of your life
+
+
+
+### 解説
+
 
 
 ----
