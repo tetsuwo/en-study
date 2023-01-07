@@ -25,21 +25,14 @@ tags:
 
 <!-- more -->
 
-### 余談
-{:.no_toc}
-
-（未だ途中ですよ）
-
 #### Good Riddance (Time of Your Life) を知らない人向けに
 {:.no_toc}
 
 <div class="u-youtube">
-（未だ途中ですよ）
+  <iframe width="320" height="180" src="https://www.youtube.com/embed/CnQ8N1KacJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ----
-
-（未だ途中ですよ）
 
 
 ## 本題
