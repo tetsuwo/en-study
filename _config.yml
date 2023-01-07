@@ -16,6 +16,9 @@ github_username:  tetsuwo
 
 markdown: kramdown
 
+kramdown:
+  parse_block_html: true
+
 #theme: none
 
 plugins:
