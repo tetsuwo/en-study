@@ -34,6 +34,7 @@ The Beatles の名曲の「Help!」は 5 枚目のスタジオ・アルバム「
 ぼくは未だ生まれてもないこんなにも前の時代に名曲が創られ、当然ながらその時代の人たちに聴かれ、そして今も尚広く知られている曲として考えると何だか凄いなーと思うしかないです。
 
 #### Help! を知らない人向けに
+{:.no_toc}
 
 <div class="u-youtube">
     <iframe width="320" height="180" src="https://www.youtube.com/embed/2Q_ZzBGPdqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
