@@ -9,8 +9,11 @@ tags:
 - The Beatles
 ---
 
-*
-TOC {:toc}
+
+## 目次
+
+1. The generated Toc will be an ordered list
+{:toc}
 
 
 ## 前置き
