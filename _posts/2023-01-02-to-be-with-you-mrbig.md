@@ -10,6 +10,13 @@ tags:
 ---
 
 
+## 目次
+{:.no_toc}
+
+1. The generated Toc will be an ordered list
+{:toc}
+
+
 ## 前置き
 
 実は最初に公開した「Help!」よりも先に先生にご教示いただいた曲です。  
@@ -43,6 +50,7 @@ CD はもっと前からあったように思うので、姉が高校生のと�
 しかしながら、リリースされてから 7 年も経って、ぼくは曲とバンド名を認識したのですね。
 
 #### To Be With You を知らない人向けに
+{:.no_toc}
 
 <div class="u-youtube">
   <iframe width="320" height="180" src="https://www.youtube.com/embed/L6-uJLteKek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -205,15 +213,17 @@ CD はもっと前からあったように思うので、姉が高校生のと�
 > 失恋はそんなに悪いものじゃないよ
 
 ##### Hold on
+{:.no_toc}
 
 `hold on` は「続けていく」「持続する」「ふんばる」的な意味があるので、ここでは「ふんばる」を採用して「元気をだしなよ」にしてみました。
 
 #### Show me what he's done to you
+{:.no_toc}
 
 `Show me` で、僕に教えてくれ、 `what he's done to you` は `done to you` で「あなたにしたこと」なので「彼が君に何をしたっていうんだ」としました。
 
-
 ##### A broken heart can't be that bad
+{:.no_toc}
 
 - `A broken heart` は「失恋」
 - `that bad` は「そんなに悪い」
