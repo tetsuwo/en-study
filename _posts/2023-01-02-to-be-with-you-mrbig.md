@@ -10,14 +10,8 @@ tags:
 ---
 
 
-## 目次
-{:.no_toc}
-
-1. The generated Toc will be an ordered list
-{:toc}
-
-
 ## 前置き
+{:.no_toc}
 
 実は最初に公開した「Help!」よりも先に先生にご教示いただいた曲です。  
 先生はビアパブの店長からお店の選曲を任されていたとき、個人的にめちゃくちゃ懐かしい曲が流れました。  
@@ -32,6 +26,7 @@ tags:
 <!-- more -->
 
 ### 余談
+{:.no_toc}
 
 「To Be With You [^ToBeWithYou_wikipedia]」は「MR. BIG」のバラードの曲ですが、ぼくが MR. BIG を聴いていた当時は Hard Rock の曲の方が好きでした。  
 聴いていたアルバムには何曲かバラードが入っていて、この曲はなぜか歌詞の意味も分からず「MR. BIG」のバラードの中では一番好きな曲となっていました。
@@ -67,6 +62,12 @@ CD はもっと前からあったように思うので、姉が高校生のと�
 
 
 ## 本題
+
+### 目次
+{:.no_toc}
+
+1. The generated Toc will be an ordered list
+{:toc}
 
 ### To Be With You の歌詞
 
