@@ -2,7 +2,7 @@
 layout: post
 title: "Good Riddance (Time of Your Life) - Green Day を和訳して英語の勉強"
 date: 2023-01-04 04:00:00 +0900
-last_modified_at: 2023-01-07 18:00:00 +0900
+last_modified_at: 2023-01-08 12:00:00 +0900
 categories:
 - Lyrics
 tags:
@@ -13,12 +13,12 @@ tags:
 ## 前置き
 {:.no_toc}
 
-ぼくが Green Day を初めて認識したのは中学生の頃で、姉が Green Day　の CD の「Dookie [^Dookie]」「Insomniac [^Insomniac]」「Nimrod [^Nimrod]」を持っており、兄もそれを聴いていて、ぼくは兄が隣の部屋で大音量で流しているのを聴いていました。
-
-当時は五月蝿い曲が好きだったので Green Day には大ハマリした記憶があります。
+ぼくが Green Day を初めて認識したのは中学生の頃でした。  
+8 つ上の姉が Green Day の CD の「Dookie [^Dookie]」「Insomniac [^Insomniac]」「Nimrod [^Nimrod]」を持っており、4 つ上の兄もそれを聴いていて、ぼくは兄が隣の部屋で大音量で流しているのを聴いていました。  
+ようやくぼくも CD プレイヤーを手に入れた頃は、ちょうど五月蝿い曲（この言い方だとリスペクトがないな・・・ワチャワチャした曲？）が好きだったので Green Day には大ハマリした記憶があります。
 
 そんなパンクな曲ばかりだったところに Nimrod の最後の方の曲だっただろうか、 Good Riddance (Time of Your Life) を見つけました。  
-この曲は歌詞の意味は全く理解していなかったですが、本当に良い曲だなーと思っていました。
+この曲は歌詞の意味は全く理解していなかったですが、本当に記憶に残る良いメロディーだなーと思っていました。
 
 20 年以上経って、歌詞の意味を知ることになるとは・・・。
 
@@ -28,18 +28,17 @@ tags:
 #### Good Riddance (Time of Your Life) を知らない人向けに
 {:.no_toc}
 
+##### Music Video
 <div class="u-youtube">
   <iframe width="320" height="180" src="https://www.youtube.com/embed/CnQ8N1KacJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-Howard Stern Show に出たときの
-
+##### Howard Stern Show に出たときの
 <div class="u-youtube">
   <iframe width="320" height="180" src="https://www.youtube.com/embed/rWfB4-Wr4Oo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-日本にライブしにきたときの
-
+##### 日本にライブしにきたときの
 <div class="u-youtube">
   <iframe width="320" height="180" src="https://www.youtube.com/embed/6KOPxFznbFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
@@ -56,7 +55,7 @@ Howard Stern Show に出たときの
 1. The generated Toc will be an ordered list
 {:toc}
 
-### Good Riddance (Time of Your Life) の歌詞
+### 歌詞
 
 > Another turning point, a fork stuck in the road  
 > Time grabs you by the wrist, directs you where to go  
@@ -84,13 +83,13 @@ Howard Stern Show に出たときの
 
 > Another turning point, a fork stuck in the road  
 > Time grabs you by the wrist, directs you where to go  
-> So make the best of this test and don’t ask why
+> So make the best of this test and don’t ask why  
 > It’s not a question, but a lesson learned in time  
 
 もう一つの分岐点、分かれ道で立ち止まる  
 時は君の手を引き、行くべきところへ導く  
 この試練にベストを尽くせ、なぜかは尋ねてはいけない  
-それは問題じゃない、時に学ぶんだ
+それは問題じゃない、人生の教訓なのさ
 
 
 > It’s something unpredictable, but in the end it’s right  
@@ -116,12 +115,12 @@ Howard Stern Show に出たときの
 >> **Another turning point**, **a fork stuck in the road**  
 >> Time grabs you by the wrist, **directs you where to go**  
 >> So make the best of this test and don’t ask why
->> It’s not a question, but a lesson learned in time  
+>> It’s not a question, **but a lesson learned in time ** 
 >
 > もう一つの分岐点、分かれ道で立ち止まる  
 > 時は君の手を引き、行くべきところへ導く  
 > この試練にベストを尽くせ、なぜかは尋ねてはいけない  
-> それは問題じゃない、時に学ぶんだ
+> それは問題じゃない、人生の教訓なのさ
 
 #### Another turning point
 
@@ -137,10 +136,10 @@ Stuck は「詰まる」「立ち往生」「抜け出せない」といった�
 
 #### directs you where to go
 
-`direct` は名詞で「直接」という意味がありますが、動詞は全く知らなかったので調べたところ「案内する」という意味がありました。  
+`direct` は名詞で「直接」という意味がありますが、動詞の意味は全く知らなかったので調べたところ「案内する」という意味がありました。  
 これにはめちゃくちゃ合点がいきました。
 
-ウェブ技術で HTTP に `redirect` という機能があります。  
+ウェブ技術に通信規格の `HTTP` というのがあって、それには `redirect` という機能があります。  
 この機能は「別のところに飛ばす」機能なのですが、「再び案内する」といったニュアンスだったのですね...。
 
 `where to go` も意味が分からなかったので調べました。  
@@ -151,7 +150,11 @@ Stuck は「詰まる」「立ち往生」「抜け出せない」といった�
 #### but a lesson learned in time
 
 `but a lesson learned in time` は直訳すれば「しかし、レッスンは時間に学んだ」かなと。  
-このままだと味気なさすぎるし、ここまでの文脈からすると「人生に学ぶんだ」とか「いずれ分かるものさ」くらいにしておきました。
+~このままだと味気なさすぎるし、ここまでの文脈からすると「人生に学ぶんだ」とか「いずれ分かるものさ」くらいにしておきました。~
+
+先生から「こういう意味もあるみたいですよ？」と教えてもらいました。
+
+`a lesson learned` で「教訓・学んだこと」という意味らしく `in time` を人生と捉えれば「人生の教訓」と言い換えられそうです。
 
 
 >> It’s something unpredictable, but in the end it’s right  
@@ -163,10 +166,10 @@ Stuck は「詰まる」「立ち往生」「抜け出せない」といった�
 ここはそのままなので解説なしです。
 
 
->> So take the photographs and still frames in your mind  
+>> So take the photographs and **still frames in your mind**  
 >> Hang it on a shelf in good heath and good time  
 >> Tattoos of memories and dead skin on trial  
->> For what it’s worth, it was worth all the while
+>> **For what it’s worth**, **it was worth all the while**
 >
 > 写真を撮って、心のフレームに刻もう  
 > それを「健康」と「良い時間」の棚にかけるんだ  
@@ -175,7 +178,7 @@ Stuck は「詰まる」「立ち往生」「抜け出せない」といった�
 
 #### still frames in your mind
 
-`still frames in your mind` は still の意味が全く分からなかった・・・。
+`still frames in your mind` は `still` の意味が全く分からなかった・・・。
 
 調べてみると動詞として使うと「動いているものを止める」ようなイメージらしく、「君の心のフレームに刻もう」と訳しました。
 
