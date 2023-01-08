@@ -10,6 +10,36 @@ tags:
 ---
 
 
+## 前置き
+{:.no_toc}
+
+
+<!-- more -->
+
+### 余談
+{:.no_toc}
+
+
+#### Better Together を知らない人向けに
+{:.no_toc}
+
+##### ライブ映像
+<div class="u-youtube">
+  <iframe width="320" height="180" src="https://www.youtube.com/embed/6m6V0XlnVpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+----
+
+## 本題
+{:.no_toc}
+
+### 目次
+{:.no_toc}
+
+1. The generated Toc will be an ordered list
+{:toc}
+
+### 歌詞
 
 > There is no combination of words I could put on the back of a postcard  
 > No song that I could sing but I can try for your heart  
@@ -49,5 +79,13 @@ tags:
 > But I will still tell you one thing  
 > We're better together  
 
+
+### 和訳
+
+
+### 解説
+
+
+----
 
 
