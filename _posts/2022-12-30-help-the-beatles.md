@@ -32,7 +32,7 @@ The Beatles の名曲の「Help!」は 5 枚目のスタジオ・アルバム「
 {:.no_toc}
 
 <div class="u-youtube">
-    <iframe width="320" height="180" src="https://www.youtube.com/embed/2Q_ZzBGPdqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="320" height="180" src="https://www.youtube.com/embed/2Q_ZzBGPdqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ----
