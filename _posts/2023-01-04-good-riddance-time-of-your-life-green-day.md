@@ -115,7 +115,7 @@ tags:
 >> **Another turning point**, **a fork stuck in the road**  
 >> Time grabs you by the wrist, **directs you where to go**  
 >> So make the best of this test and don’t ask why
->> It’s not a question, **but a lesson learned in time ** 
+>> It’s not a question, **but a lesson learned in time** 
 >
 > もう一つの分岐点、分かれ道で立ち止まる  
 > 時は君の手を引き、行くべきところへ導く  
