@@ -2,7 +2,7 @@
 layout: post
 title: "To Be With You - MR. BIG を和訳して英語の勉強"
 date: 2023-01-02 10:00:00 +0900
-last_modified_at: 2023-01-09 13:00:00 +0900
+last_modified_at: 2023-01-09 15:00:00 +0900
 categories:
 - Lyrics
 tags:
@@ -248,7 +248,7 @@ CD はもっと前からあったように思うので、姉が高校生のと�
 
 ##### Let me be the one to show you
 
-`let me ~` は「〜してあげる」、`show you` は「君に教える、示す、証明する」、`be the one` は「その人になる」なので、直訳すれば「その人になる証明してあげる」なのかなと。
+`let me ~` は「〜してあげる」、`show you` は「君に教える、示す、証明する」、`be the one` は「その人になる」なので、直訳すれば「君に示すその人になってあげる」 or 「その人になる証明してあげる」なのかなと。
 
 意訳すれば「君の運命の人だってことを証明させてよ」になるのかなと思います。
 
@@ -271,14 +271,57 @@ CD はもっと前からあったように思うので、姉が高校生のと�
 
 ##### Waited on a line of greens and blues
 
-###### 色のイメージ
-<table>
-<tr>
-<td style="background-color:#00b; color:#fff;">Blue</td>
-<td></td>
-</tr>
-</table>
+いわゆる英語の色の感情の意味だと `green` は「嫉妬」、`blue` は「憂鬱」となりそうだが、もしかしたらポジティブかもしれないとも思いました。
 
+もしかすると「落ち着いて穏やかな気持ち待っていたよ」かもしれない。  
+（その考察は [こちら](/posts/20230102/color-meanings-of-mood-ring.html) から）
+
+
+>> Build up your confidence  
+>> **So you can be on top for once**  
+>> Wake up who cares about  
+>> Little boys that talk too much
+>
+> 自信を持つんだ  
+> 上手くいくときだってあるさ  
+> 目を覚ませよ、誰が気にするのさ  
+> あいつらはお喋りしすぎなのさ
+
+##### So you can be on top for once
+
+`on top` は「うまくいく」、`for once` は「たまには」で直訳すれば「君はたまには上手くできる」になるかなと。
+
+意訳して「上手くいくときだってあるさ」としました。
+
+
+>> I've seen it all go down  
+>> Your game of love was all rained out  
+>> So come on baby, come on over  
+>> Let me be the one to hold you
+> 
+> 僕は一部始終を見ていたよ  
+> 君の恋は雨に流されたんだ  
+> だからこっちにおいで、さあ  
+> 君を抱きしめさせてよ
+
+
+##### I've seen it all go down
+
+`I've seen ~` は「〜を見ていた」で `go down` は「下りる・沈む・落ちる」などの意味があり、直訳すると「僕は全てが落ちるのを見ていた」かなと思います。
+
+意訳すると「僕は一部始終を見ていたよ」や「僕は君の失恋のすべてを見ていたよ」といった感じかなと思います。
+
+##### Your game of love was all rained out
+
+`rained out` で「（雨が）中止にする」といった意味合いなので直訳すれば「君の恋のゲームは雨ですべて中止になったんだ」です。
+
+##### Let me be the one to hold you
+
+`Let me be the one to show you` の `show` が `hold` に変わりましたね。
+
+`let me ~` は「〜してあげる」、`hold you` は「君を抱きしめる」、`be the one` は「その人になる」なので、直訳すれば「君を抱きしめるその人になってあげる」なのかなと。
+
+意訳すれば「君を抱きしめさせてよ」になるのかなと思います。
 
 
 
