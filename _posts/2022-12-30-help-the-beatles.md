@@ -6,6 +6,7 @@ last_modified_at: 2023-01-08 14:00:00 +0900
 categories:
 - Lyrics
 tags:
+- Lyrics
 - The Beatles
 ---
 

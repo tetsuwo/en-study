@@ -1,5 +1,5 @@
 ---
-layout: posts-tag
+layout: posts-category
 title: "Lyrics"
-tag: Lyrics
+category: Lyrics
 ---

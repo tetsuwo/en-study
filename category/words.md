@@ -1,5 +1,5 @@
 ---
-layout: posts-tag
+layout: posts-category
 title: "Words"
-tag: Words
+category: Words
 ---

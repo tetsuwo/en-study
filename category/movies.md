@@ -1,5 +1,5 @@
 ---
-layout: posts-tag
+layout: posts-category
 title: "Movies"
-tag: movies
+category: movies
 ---
