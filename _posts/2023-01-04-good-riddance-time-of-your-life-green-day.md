@@ -17,7 +17,7 @@ tags:
 8 つ上の姉が Green Day の CD の「Dookie [^Dookie]」「Insomniac [^Insomniac]」「Nimrod [^Nimrod]」を持っており、4 つ上の兄もそれを聴いていて、ぼくは兄が隣の部屋で大音量で流しているのを聴いていました。  
 ようやくぼくも CD プレイヤーを手に入れた頃は、ちょうど五月蝿い曲（この言い方だとリスペクトがないな・・・ワチャワチャした曲？）が好きだったので Green Day には大ハマリした記憶があります。
 
-そんなパンクな曲ばかりだったところに Nimrod の最後の方の曲だっただろうか、 Good Riddance (Time of Your Life) を見つけました。  
+そんなパンクな曲ばかりだったところに「Nimrod」の最後の方の曲だっただろうか「Good Riddance (Time of Your Life) [^good_riddance]」を見つけました。  
 この曲は歌詞の意味は全く理解していなかったですが、本当に記憶に残る良いメロディーだなーと思っていました。
 
 20 年以上経って、歌詞の意味を知ることになるとは・・・。
@@ -203,6 +203,24 @@ Stuck は「詰まる」「立ち往生」「抜け出せない」といった�
 意訳して「それだけの価値があったのさ」としました。
 
 
+### 考察
+
+実際に歌詞を訳したり、Green Day やビリー・ジョーさんのその時のことを調べてみて思ったのは、この曲は自らの子どもに向けた曲なんじゃなかろうかということでした。
+
+Good Riddance [^good_riddance] の Wikipedia をみると下記のように書いてありました。
+
+> シングル「ブレイン・シチュー」のカップリングとして、すでに発表されている。
+
+Good Riddance は Nimrod の前にシングルに収録していたんですね。知らなかった。
+
+そのカップリングとしてリリースされた「Brain Stew / Jaded [^brain_stew-jaded]」の録音をしたのが 1995 年です。  
+そしてビリー・ジョーさんは 1994 年 7 月 2 日に結婚されていて、現在 2 人の息子さんがいます。
+
+- Joey Armstrong（ジョーイ） - 1995 年 2 月 28 日生まれ
+- Jakob Armstrong（ジェイコブ） - 1998 年 9 月 12 日生まれ
+
+これから察するに、1995 年に生まれたジョーイさんにこれから生きるこの困難な世界について「頑張って生きろよ」と言わんとする歌を創ったのではないかと思いました。
+
 ----
 <!-- footnote -->
 
@@ -211,3 +229,9 @@ Stuck は「詰まる」「立ち往生」「抜け出せない」といった�
 [^Insomniac]: [Insomniac](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BD%E3%83%A0%E3%83%8B%E3%82%A2%E3%83%83%E3%82%AF) - 最終更新 2022年4月16日 (土) 17:01
 
 [^Nimrod]: [Nimrod](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A0%E3%83%AD%E3%83%83%E3%83%89_(%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0)) - 最終更新 2021年3月1日 (月) 18:09 
+
+[^good_riddance]: [Good Riddance (Time of Your Life)](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%83%E3%83%89%E3%83%BB%E3%83%AA%E3%83%80%E3%83%B3%E3%82%B9_(%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%A6%E3%82%A2%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%95)) - 最終更新 2021年3月1日 (月) 18:10
+
+[^brain_stew-jaded]: [Brain Stew / Jaded](https://en.wikipedia.org/wiki/Brain_Stew_/_Jaded) - This page was last edited on 11 October 2022, at 13:28 (UTC).
+
+
