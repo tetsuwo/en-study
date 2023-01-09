@@ -2,7 +2,7 @@
 layout: post
 title: "To Be With You - MR. BIG を和訳して英語の勉強"
 date: 2023-01-02 10:00:00 +0900
-last_modified_at: 2023-01-06 19:00:00 +0900
+last_modified_at: 2023-01-09 13:00:00 +0900
 categories:
 - Lyrics
 tags:
@@ -47,10 +47,12 @@ CD はもっと前からあったように思うので、姉が高校生のと�
 #### To Be With You を知らない人向けに
 {:.no_toc}
 
+##### Music Video
 <div class="u-youtube">
   <iframe width="320" height="180" src="https://www.youtube.com/embed/L6-uJLteKek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+##### Live
 <div class="u-youtube">
   <iframe width="320" height="180" src="https://www.youtube.com/embed/dJnYRzJMWQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
@@ -142,7 +144,7 @@ CD はもっと前からあったように思うので、姉が高校生のと�
 > A broken heart can't be that bad
 
 元気をだしなよ 
-彼が君に何をしたっていうんだ  
+彼が君に何をしたっていうんだ、言ってごらんよ  
 立ち上がるんだ  
 失恋はそんなに悪いものじゃないよ
 
@@ -152,10 +154,10 @@ CD はもっと前からあったように思うので、姉が高校生のと�
 > So come on baby, come on over  
 > Let me be the one to show you
 
-過ぎたこと、そう過ぎたことさ  
-運命が二人を引き離したんだろう  
+終わるときは終わるのさ  
+運命が二人を引き離したんだよ  
 だからこっちにおいてよ、さあおいで  
-僕に示させてよ
+君の運命の人だってことを証明させてよ
 
 
 > (I'm the one who wants to be with you)  
@@ -187,6 +189,7 @@ CD はもっと前からあったように思うので、姉が高校生のと�
 > So come on baby, come on over  
 > Let me be the one to hold you
 
+僕は全て見ていたよ
 (I've seen it all go down) 未訳  
 君の恋は雨に流されたんだ  
 だからこっちにおいで、さあ  
@@ -210,26 +213,73 @@ CD はもっと前からあったように思うので、姉が高校生のと�
 >> **A broken heart can't be that bad**
 > 
 > 元気をだしなよ  
-> 彼が君に何をしたっていうんだ  
+> 彼が君に何をしたっていうんだ、言ってごらんよ  
 > 立ち上がるんだ  
 > 失恋はそんなに悪いものじゃないよ
 
 ##### Hold on
-{:.no_toc}
 
 `hold on` は「続けていく」「持続する」「ふんばる」的な意味があるので、ここでは「ふんばる」を採用して「元気をだしなよ」にしてみました。
 
 #### Show me what he's done to you
-{:.no_toc}
 
-`Show me` で、僕に教えてくれ、 `what he's done to you` は `done to you` で「あなたにしたこと」なので「彼が君に何をしたっていうんだ」としました。
+`Show me` で、僕に教えてくれ、 `what he's done to you` は `done to you` で「あなたにしたこと」なので「彼が君に何をしたっていうんだ、言ってごらんよ」としました。
 
 ##### A broken heart can't be that bad
-{:.no_toc}
 
-- `A broken heart` は「失恋」
-- `that bad` は「そんなに悪い」
-- なので「失恋はそんなに悪いものじゃないよ」としました
+`A broken heart` は「失恋」、`that bad` は「そんなに悪い」なので「失恋はそんなに悪いものじゃないよ」としました
+
+
+>> When it's through, it's through  
+>> **Fate will twist the both of you**  
+>> So come on baby, come on over  
+>> **Let me be the one to show you**
+> 
+> 終わるときは終わるのさ  
+> 運命が二人を引き離したんだよ  
+> だからこっちにおいてよ、さあおいで  
+> 君の運命の人だってことを証明させてよ
+
+##### Fate will twist the both of you
+
+`Fate` は「運命」、`twist` は「撚り合わせる、捻る、歪める」、`both of you` は「二人とも」なので直訳すると「運命が二人を歪めるだろう」です。
+
+意訳すれば「運命が二人を引き離したんだよ」「運命の二人じゃなかったんだよ」くらいかなと。
+
+##### Let me be the one to show you
+
+`let me ~` は「〜してあげる」、`show you` は「君に教える、示す、証明する」、`be the one` は「その人になる」なので、直訳すれば「その人になる証明してあげる」なのかなと。
+
+意訳すれば「君の運命の人だってことを証明させてよ」になるのかなと思います。
+
+
+>> (**I'm the one who wants to be with you**)  
+>> (Deep inside I hope you feel it too)  
+>> Feel it too  
+>> (**Waited on a line of greens and blues**)  
+>> Waited on a line  
+>> Just to be the next to be with you
+>
+> 君と一緒にいたいのは僕なんだ  
+> 心の奥底で君もそう思ってくれてたら  
+> 嫉妬と憂鬱な気持ちで待ったんだ  
+> 次に君の隣にいるために
+
+##### I'm the one who wants to be with you
+
+直訳すれば「僕は君と一緒にいたいその人である」で、意訳して「君と一緒にいたいのは僕なんだ」としました。
+
+##### Waited on a line of greens and blues
+
+###### 色のイメージ
+<table>
+<tr>
+<td style="background-color:#00b; color:#fff;">Blue</td>
+<td></td>
+</tr>
+</table>
+
+
 
 
 ----
