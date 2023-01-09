@@ -338,6 +338,10 @@ blockquote:before, blockquote:after {
     /*content: '';*/
     content: none !important;
 }
+    blockquote strong {
+        color: #d00;
+        font-weight: normal;
+    }
     blockquote p {
         padding: 0 !important;
         margin: .5em !important;
