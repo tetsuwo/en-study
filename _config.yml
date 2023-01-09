@@ -31,17 +31,27 @@ plugins:
 whitelist:
   - jekyll-redirect-from
 
+#category_dir: "categories"
+#category_layout: "index.html"
+
+collections:
+  categories:
+    output: true
+
 defaults:
-  - 
-    scope:
+  - scope:
       type: pages
     values:
       permalink: /:path/:basename:output_ext
-  - 
-    scope:
+  - scope:
       type: posts
     values:
       permalink: /post/:year:month:day/:title.html
+  - scope:
+      path: ""
+      type: categories
+    values:
+      layout: "categories"
 
 #destination: public
 #source: src
@@ -49,13 +59,6 @@ defaults:
 
 paginate: 5
 paginate_path: "page/:num"
-
-#category_dir: "categories"
-#category_layout: "index.html"
-
-collections:
-  categories:
-    output: true
 
 # My variables
 homeurl: https://en-study.t5o.me
