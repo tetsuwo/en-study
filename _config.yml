@@ -53,6 +53,10 @@ paginate_path: "page/:num"
 #category_dir: "categories"
 #category_layout: "index.html"
 
+collections:
+  categories:
+    output: true
+
 # My variables
 homeurl: https://en-study.t5o.me
 
