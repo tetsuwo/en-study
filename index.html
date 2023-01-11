@@ -11,7 +11,7 @@ title: 英語のを時間
         <div class="post-body clearfix">{{ post.content | split:"<!-- more -->" | first }}</div>
         {% if post.content contains "<!-- more -->" %}
             <div class="post-body clearfix">
-                <a href="{{ post.url }}">つづきをみる</a>
+                <a href="{{ post.url }}">Read more ...</a>
             </div>
         {% endif %}
         <footer class="post-foot clearfix">
@@ -23,8 +23,8 @@ title: 英語のを時間
                     {% endfor %}
                 </p>
                 -->
-                <time datetime="{{ post.last_modified_at | date: '%Y-%m-%d' }}">最終更新日: {{ post.last_modified_at | date: '%Y.%m.%d' }}</time>
-                <time datetime="{{ post.date | date: '%Y-%m-%d' }}">公開日: {{ post.date | date: '%Y.%m.%d' }}</time>
+                <time datetime="{{ post.last_modified_at | date: '%Y-%m-%d' }}">Last modified at: {{ post.last_modified_at | date: '%Y.%m.%d' }}</time>
+                <time datetime="{{ post.date | date: '%Y-%m-%d' }}">Published at: {{ post.date | date: '%Y.%m.%d' }}</time>
             </div>
         </footer>
     </article>
@@ -33,9 +33,9 @@ title: 英語のを時間
 <div class="pagination">
     <span class="page_number">{{ paginator.page }} / {{ paginator.total_pages }}</span>：
     {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path | replace: 'index.html', '' }}">前のページ</a>
+        <a href="{{ paginator.previous_page_path | replace: 'index.html', '' }}">Previous page</a>
     {% endif %}
     {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}">次のページ</a>
+        <a href="{{ paginator.next_page_path }}">Next page</a>
     {% endif %}
 </div>

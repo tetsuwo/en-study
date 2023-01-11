@@ -26,17 +26,9 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-redirect-from
-#  - jekyll-paginate-category
 
 whitelist:
   - jekyll-redirect-from
-
-#category_dir: "categories"
-#category_layout: "index.html"
-
-collections:
-  categories:
-    output: true
 
 defaults:
   - scope:
@@ -47,11 +39,6 @@ defaults:
       type: posts
     values:
       permalink: /post/:year:month:day/:title.html
-  - scope:
-      path: ""
-      type: categories
-    values:
-      layout: "categories"
 
 #destination: public
 #source: src
