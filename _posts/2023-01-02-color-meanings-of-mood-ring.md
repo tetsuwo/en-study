@@ -10,7 +10,7 @@ categories:
 
 ## 前置き
 
-MR. BIG の「[To Be With You](/posts/20230102/to-be-with-you-mrbig.html)」の歌詞に `Greens` やら `Blues` が出てきますが、この緑や青には感情を表す意味があるということで調べたところ辿り着いたのが「Mood Ring（ムードリング）」です。
+MR. BIG の「[To Be With You](/post/20230102/to-be-with-you-mrbig.html)」の歌詞に `Greens` やら `Blues` が出てきますが、この緑や青には感情を表す意味があるということで調べたところ辿り着いたのが「Mood Ring（ムードリング）」です。
 
 ムードリングとは何なのか調べてみました。
 
