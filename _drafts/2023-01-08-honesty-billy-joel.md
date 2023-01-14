@@ -12,14 +12,8 @@ tags:
 ## 前置き
 {:.no_toc}
 
-ぼくが Green Day を初めて認識したのは中学生の頃でした。  
-8 つ上の姉が Green Day の CD の「Dookie [^Dookie]」「Insomniac [^Insomniac]」「Nimrod [^Nimrod]」を持っており、4 つ上の兄もそれを聴いていて、ぼくは兄が隣の部屋で大音量で流しているのを聴いていました。  
-ようやくぼくも CD プレイヤーを手に入れた頃は、ちょうど五月蝿い曲（この言い方だとリスペクトがないな・・・ワチャワチャした曲？）が好きだったので Green Day には大ハマリした記憶があります。
-
-そんなパンクな曲ばかりだったところに「Nimrod」の最後の方の曲だっただろうか「Good Riddance (Time of Your Life) [^good_riddance]」を見つけました。  
-この曲は歌詞の意味は全く理解していなかったですが、本当に記憶に残る良いメロディーだなーと思っていました。
-
-20 年以上経って、歌詞の意味を知ることになるとは・・・。
+ぼくが Billy Joel を知ったのは中学生の頃でした。  
+これまでの MR. BIG 然り、Green Day 然り、姉の影響が大きいことが分かりますね。
 
 
 <!-- more -->
@@ -169,6 +163,7 @@ tags:
 
 #### If I wear my heart out on my sleeve
 
+`heart out` 
 `on my sleeve`
 
 
@@ -178,6 +173,18 @@ tags:
 > But when I want sincerity  
 > Tell me where else can I turn  
 > Because you're the one I depend upon  
+
+#### Don't me too concerned
+
+`concerned`
+
+#### I won't as for nothing while I'm gone
+
+`for nothing while`
+
+#### But when I want sincerity
+
+`sincerity`
 
 
 
