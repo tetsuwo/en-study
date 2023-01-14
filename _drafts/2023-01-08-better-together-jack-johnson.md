@@ -3,8 +3,7 @@ layout: post
 title: "Better Together - Jack Johnson を和訳して英語の勉強"
 date: 2023-01-08 15:00:00 +0900
 last_modified_at: 2023-01-08 15:00:00 +0900
-categories:
-- Lyrics
+categories: Lyrics
 tags:
 - Jack Johnson
 ---

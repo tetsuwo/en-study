@@ -3,8 +3,7 @@ layout: post
 title: "To Be With You - MR. BIG を和訳して英語の勉強"
 date: 2023-01-02 10:00:00 +0900
 last_modified_at: 2023-01-09 15:00:00 +0900
-categories:
-- Lyrics
+categories: Lyrics
 tags:
 - MR. BIG
 ---

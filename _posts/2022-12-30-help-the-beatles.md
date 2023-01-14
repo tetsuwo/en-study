@@ -3,8 +3,7 @@ layout: post
 title: "Help! - The Beatles を和訳して英語の勉強"
 date: 2022-12-30 23:00:00 +0900
 last_modified_at: 2023-01-08 14:00:00 +0900
-categories:
-- Lyrics
+categories: Lyrics
 tags:
 - The Beatles
 ---

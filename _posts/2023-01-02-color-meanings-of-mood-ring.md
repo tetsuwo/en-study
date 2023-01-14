@@ -3,8 +3,7 @@ layout: post
 title: "感情で変化するムードリングの色の意味"
 date: 2023-01-02 09:00:00 +0900
 last_modified_at: 2023-01-09 15:00:00 +0900
-categories:
-- Words
+categories: Words
 ---
 
 
