@@ -9,51 +9,52 @@ tags:
 ---
 
 
+## 前置き
 
-> (AIRPLANE APPROACHES)  
+Terminal（ターミナル）は大好きな映画の一つで、ずっと日本語でしか観たことありませんでした。
 
-飛行機の近づく音
+Terminal は 2004 年 6 月 18 日に米国で公開された映画です。  
+簡単な導入部分だけお話すると、クラコウジアというブルガリア周辺？の架空のヨーロッパ大陸の国から「とある目的」を持って米国に訪問したビクター・ナボルスキーが、米国到着直後に祖国の軍事クーデターにより、パスポートが無効となり、米国ユナイテッド航空の空港から出られなくなり、空港内での様々な物語が起こるといった映画になっています。
 
-> (TIRES SCREECH)  
+この映画は主人公のナボルスキーが英語が喋れないこともあり、空港内での生活から少しずつ英語が上達し、周りの人たちと関係が広がっていくという英語を勉強するにはもってこいの内容となっています。
 
-タイヤのキーキー音
+ぼくも英語を勉強するにあたり、聴き取れなかったセリフや意味が分からなかったセリフを引用し、自分なりに翻訳してみようと思います。
 
-> (P.A. JINGLES)  
 
-チリンチリンと鳴る音
+## 本題
 
-> MAN: (ON P.A.)  
+### セリフ及び訳
+
+#### 空港内のシーン
+
+> SPEAKER:  
 >   United Airlines announcing the arrival of Flight 9435 from Beijing.  
 >   Customer service representative, please report to Gate C42.  
 
-ユナイテッド航空が北京から 9435 便の到着をお知らせします。  
-カスタマーサービス担当者は C42 ゲートまでお越しください。
+港内放送：  
+ユナイテッド航空が北京発 9435 便の到着をお知らせします。  
+カスタマーサービス窓口は C42 ゲートまでお越しください。
 
-> (REPEATING ANNOUNCEMENT IN MANDARIN)
+> SPEAKER:  
+>   All visitors to the US should **line up** at booths one through 15.
 
-繰り返しのお知らせ
-
-> (ALL CHATTERING)
-
-ぺちゃくちゃ喋っている音
-
-> WOMAN: (ON P.A.) All visitors to the US should line up at booths one through 15.
-
+港内放送：  
 アメリカへお越しの方は 1 番から 15 番のブースにお並びください。
 
-> CUSTOMS OFFICIAL: Please have your I-94 forms filled out.
+`line up` ... 並ぶ
 
-I-94 フォームに記入してください。
+> SPEAKER: Please have your I-94 forms **filled out**.
 
-> AIRPLANE STAFF (WOMAN): What's the purpose of your visit?  
+港内放送：  
+記入済みの I-94 フォームをお持ちください。
+
+`filled out` ... 記入された
+
+> AIRPLANE STAFF : What's the purpose of your visit?  
 
 滞在の目的は何ですか？
 
-> AIRPLANE STAFF (MAN): What is the purpose of your visit? Business or pleasure?  
-
-滞在の目的は何ですか？仕事あるいは娯楽ですか？
-
-> AIRPLANE STAFF (WOMAN): What is the purpose of your visit? Business or pleasure?  
+> AIRPLANE STAFF: What is the purpose of your visit? Business or pleasure?  
 
 滞在の目的は何ですか？仕事あるいは娯楽ですか？
 
@@ -61,57 +62,38 @@ I-94 フォームに記入してください。
 
 観光で来たの
 
-> AIRPLANE STAFF (WOMAN): Shopping?  
-
-お買い物ですか？
-
-> CUSTOMER (WOMAN): Euh, plaisir.
-
-（フランス語）
-
-> CUSTOMER (WOMAN): It's pleasure.  
-
-娯楽よ
-
-> CUSTOMER (MAN): Uh, business.
-
-んー、仕事だよ
+（〜暫くこういったやり取りが続く〜）
 
 > AIRPLANE STAFF (MAN): How long will you be staying in the United States?
 
 アメリカにはどれだけ滞在されますか？
 
-> AIRPLANE STAFF (WOMAN): Could I see your return ticket, please?
+> AIRPLANE STAFF (WOMAN): **Could I** see your return ticket, please?
 
 帰りのチケットを見せてくれませんか？
 
-> AIRPLANE STAFF (WOMAN): What's the purpose of your visit?
+`Could I` ... 少し丁寧な聞き方とのこと
 
-滞在の目的は何ですか？
-
-> AIRPLANE STAFF (MAN):  
-> Pleasure. Business or pleasure?
->
-> AIRPLANE STAFF (MAN):  
-> Enjoy your stay. Next.
+> AIRPLANE STAFF (MAN): Enjoy your stay. Next.
 
 楽しんで  次の方
 
-> WOMAN:  
-> (ON P.A.)  
-> Please have your passports, immigratioin form, I-94...
 
-> Thurman: Stand by. He's fishing.  
+#### 監視室の中にシーンが移る
+
+> Thurman: Stand by. He's **fishing**.  
 
 待機しろ、彼は釣りをしている
 
+`fishing` は、良い訳が見つからなく一先ず釣りにしてしまいました
+
 > MAN: Copy that.  
 
-了解。
+了解
 
 > Frank Dixon: See this bunch of Mickey Mouse sweatshirts down here?  
 
-ミッキーマウスのスエットシャツの連中を見えるか？
+ミッキーマウスのスエットシャツの連中が見えるか？
 
 > Thurman: That's the tour from China, connecting to Orlando.  
 
@@ -119,7 +101,7 @@ I-94 フォームに記入してください。
 
 > Frank Dixon: When was the lasts time you saw a group of Chinese tourists on their way to Disney World and not a single one of then had a camera?  
 
-ディズニーワールドに向かう中国人旅行者のグループが一つもカメラを
+ディズニーワールドに向かう中国人旅行者のグループが一つもカメラを持ってないのを見るのはどれくらい振りだ？
 
 `single one` = たった一つ
 
@@ -127,19 +109,16 @@ I-94 フォームに記入してください。
 
 10 と 11 に偽造文書の可能性あり
 
-> (SHOUTING)  
 
-叫ぶ声
+#### 空港のシーンに戻る
 
 > Waylin:  
->   Sir. Sir. Passport. Thank you.  
+>   Sir. Sir. Passport.  
+>   Thank you.  
 >   Welcome, Mr. Navorski.  
 >   Purpose of your visit?
 
-お客様
-
-お客様  
-パスポートを  
+お客様 お客様 パスポートを  
 ありがとうございます  
 ようそこナボルスキーさん  
 訪問の目的は？
@@ -147,31 +126,33 @@ I-94 フォームに記入してください。
 > Viktor Navorski: (SPEAKS BULGARIAN)  
 > Waylin: Business or pleasure?  
 > Viktor Navorski: (SPEAKS BULGARIAN)  
-> (BEEPS)  
-> OFFICER: Have your declarations forms ready, please.  
+
+（ここでビープ音がなり Waylin が顔をしかめる）
+
 > Waylin: Sir, I have an IBIS hit on six.  
 
-6 番で IBIS にヒットしました
+（内線で連絡）すみません、6 番で IBIS にヒットしました
+
+`IBIS` = `Interagency Border Inspection System` = 各省庁間で怪しい人物などを検査する共通システムらしい
 
 > Thurman: Mr. Navorski, please follow me.  
 
 ナボルスキーさん、私に付いてきてください
 
-> WOMAN: (ON P.A.) ...from Montreal must proceed to U.S. Immigration for claiming their luggage.
->
+> SPEAKER: Immigration before claiming their luggage.
+
+（手荷物引き渡しの前に入国管理〜云々）
+
 > Thurman: All right, Mr. Navorski, we would like for you to wait right here, please.
 
-ナボルスキーさん、ここでお待ちください
+いいでしょう、ナボルスキーさん、ここでお待ちください
 
-> (ELECTRIC RAZOR BUZZING)  
+
+#### Thurman の事務室にシーンが移る
 
 > Thurman: What exactly are you doing in the United States, Mr. Navorski?
 
-アメリカで具体的に何をするのですか？ナボルスキーさん
-
->
->
-> 
+アメリカで具体的に何をするつもりですか？ナボルスキーさん
 
 
 
