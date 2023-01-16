@@ -394,6 +394,7 @@ article.permalink .post-head { margin-bottom: 2em; }
 .post-head a:hover { color: #999; text-decoration: none; }
 .post-head .ads { margin-top: 2em; }
 .ads-sponsored-link { color: #aaa; }
+.post-head--subinfo { margin-top: 10px; }
 
 /* -- post-body -- */
 .post-body { text-shadow: none; margin-bottom: 2em; }

@@ -5,7 +5,12 @@ layout: main
 <article class="post post-text clearfix">
     <header class="post-head clearfix">
         <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
-        <div class="clearfix" style="margin-top:10px;">
+        <div class="post-head--subinfo clearfix">
+            <p class="tags">
+                {% for category in page.categories %}
+                <a href="/category/{{ category | downcase | slugify }}">{{ category }}</a>
+                {% endfor %}
+            </p>
             <!--
             <p class="tags">
                 {% for tag in page.tags %}
@@ -25,8 +30,8 @@ layout: main
         <div class="clearfix">
             <!--
             <p class="tags">
-                {% for tag in page.tags %}
-                <a href="/tag/{{ tag }}">{{ tag }}</a>
+                {% for category in page.categories %}
+                <a href="/category/{{ category | downcase | slugify }}">{{ category }}</a>
                 {% endfor %}
             </p>
             -->

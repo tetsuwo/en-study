@@ -58,6 +58,18 @@
                 </section>
                 <!-- /#main -->
                 <div id="sider" class="clearfix">
+                    <div class="sider-inner">
+                        <section class="sider-group clearfix">
+                            <h1 class="sider-title">Categories</h1>
+                            <ul id="tags">
+                                {% for category in site.categories %}
+                                    <li><a href="{{ site.baseurl }}/category/{{ category | first | downcase | slugize }}">
+                                        {{ category | first }}
+                                    </a></li>
+                                {% endfor %}
+                            </ul>
+                        </section>
+                    </div>
                     <!--
                     <div class="sider-inner">
                         {% assign tag_names = "" | split: "|"  %}
