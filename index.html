@@ -13,16 +13,9 @@ title: 英語のを時間
                     {% for category in post.categories %}
                     <a href="/category/{{ category | downcase | slugify }}">{{ category }}</a>
                     {% endfor %}
-                </span>
-                <!--
-                <p class="tags">
-                    {% for tag in post.tags %}
-                        <a href="/tag/{{ tag }}">{{ tag }}</a>
-                    {% endfor %}
-                </p>
-                -->
+                </span> | 
+                <time datetime="{{ post.date | date: '%Y-%m-%d' }}">Published at: {{ post.date | date: '%Y.%m.%d' }}</time> | 
                 <time datetime="{{ post.last_modified_at | date: '%Y-%m-%d' }}">Last modified at: {{ post.last_modified_at | date: '%Y.%m.%d' }}</time>
-                <time datetime="{{ post.date | date: '%Y-%m-%d' }}">Published at: {{ post.date | date: '%Y.%m.%d' }}</time>
             </div>
         </header>
         <div class="post-body clearfix">{{ post.content | split:"<!-- more -->" | first }}</div>

@@ -11,7 +11,7 @@ layout: main
                 {% for category in page.categories %}
                 <a href="/category/{{ category | downcase | slugify }}">{{ category }}</a>
                 {% endfor %}
-            </span>
+            </span> | 
             <!--
             <p class="tags">
                 {% for tag in page.tags %}
@@ -19,8 +19,8 @@ layout: main
                 {% endfor %}
             </p>
             -->
+            <time datetime="{{ page.date | date: '%Y-%m-%d' }}">Published at: {{ page.date | date: '%Y.%m.%d' }}</time> | 
             <time datetime="{{ page.last_modified_at | date: '%Y-%m-%d' }}">Last modified at: {{ page.last_modified_at | date: '%Y.%m.%d' }}</time>
-            <time datetime="{{ page.date | date: '%Y-%m-%d' }}">Published at: {{ page.date | date: '%Y.%m.%d' }}</time>
         </div>
     </header>
     <div class="post-body clearfix">{{ content }}</div>
@@ -34,7 +34,7 @@ layout: main
                 {% for category in page.categories %}
                 <a href="/category/{{ category | downcase | slugify }}">{{ category }}</a>
                 {% endfor %}
-            </span>
+            </span> | 
             <!--
             <p class="tags">
                 {% for category in page.categories %}
@@ -42,8 +42,8 @@ layout: main
                 {% endfor %}
             </p>
             -->
+            <time datetime="{{ page.date | date: '%Y-%m-%d' }}">Published at: {{ page.date | date: '%Y.%m.%d' }}</time> | 
             <time datetime="{{ page.last_modified_at | date: '%Y-%m-%d' }}">Last modified at: {{ page.last_modified_at | date: '%Y.%m.%d' }}</time>
-            <time datetime="{{ page.date | date: '%Y-%m-%d' }}">Published at: {{ page.date | date: '%Y.%m.%d' }}</time>
         </div>
     </footer>
 </article>
