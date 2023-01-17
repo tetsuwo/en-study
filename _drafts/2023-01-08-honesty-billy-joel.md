@@ -12,28 +12,37 @@ tags:
 ## 前置き
 {:.no_toc}
 
-ぼくが Billy Joel を知ったのは中学生の頃でした。  
-これまでの MR. BIG 然り、Green Day 然り、姉の影響が大きいことが分かりますね。
+ぼくが「Billy Joel [^BillyJoel]」を知ったのは小学高学年〜中学生の頃でした。  
+これまでの MR. BIG 然り、Green Day 然り、姉の影響が大きいことが分かりますね...。  
+今度姉にあったら昔の思い出話でもしよう。
 
+Billy Joel もまた姉から引き継いだアーティストだったわけですが、中でも The Stranger、Movin' Out、Uptown Girl、My Life、The Longest Time、Piano Man、Honesty は特に好きでした。  
+（「特に」って言ってるのに多いな...）
+
+We Didn't Start The Fire は良い曲ではありますがぼくには刺さらなかったです。
+
+そんな「特に」好きな曲が多い Billy Joel の Honesty を自分なりに訳していきます。
 
 <!-- more -->
+
+### 余談
+
+「Honesty [^Honesty]」が発表されたのは 1978 年とのことで、ぼくが生まれる前からある曲だったのですね。
+
+小〜中学生くらいで知っているからてっきりそこから 5 年くらい前くらいにリリースされたものと思っていましたが、そんなに昔だったとは。
+
+> 世の中が不誠実に溢れ、誠実さを得ることは難しいが、それでも誠実さを求めていくという内容の歌。  
+> - Wikipedia [^Honesty]
+
+Wikipedia には上記のような解説が載っていました。訳すのが楽しみです。
+
 
 #### Honesty を知らない人向けに
 {:.no_toc}
 
 ##### Music Video
 <div class="u-youtube">
-  <iframe width="320" height="180" src="https://www.youtube.com/embed/CnQ8N1KacJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-##### Howard Stern Show に出たときの
-<div class="u-youtube">
-  <iframe width="320" height="180" src="https://www.youtube.com/embed/rWfB4-Wr4Oo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-##### 日本にライブしにきたときの
-<div class="u-youtube">
-  <iframe width="320" height="180" src="https://www.youtube.com/embed/6KOPxFznbFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="320" height="180" src="https://www.youtube.com/embed/SuFScoO4tb0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ----
@@ -197,7 +206,8 @@ tags:
 ----
 <!-- footnote -->
 
-[^Dookie]: [Dookie](https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A5%E3%83%BC%E3%82%AD%E3%83%BC) - 最終更新 2021年3月1日 (月) 18:09
+[^BillyJoel]: [BillyJoel]() - 
+[^Honesty]: [Honesty](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8D%E3%82%B9%E3%83%86%E3%82%A3) - 最終更新 2022年12月4日 (日) 16:32
 
 
 
