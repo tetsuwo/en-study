@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  jekyll:
+    container_name: eigonowojikan_jekyll
+    image: jekyll/jekyll:latest
+    volumes:
+        - ./:/app
+    command: sh -c 'gem install webrick; jekyll serve -s /app --watch --verbose --trace --drafts'
+    ports:
+      - '4000:4000'
