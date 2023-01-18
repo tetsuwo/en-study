@@ -43,15 +43,15 @@ CD はもっと前からあったように思うので、姉が高校生のと�
 
 しかしながら、リリースされてから 7 年も経って、ぼくは曲とバンド名を認識したのですね。
 
-#### To Be With You を知らない人向けに
+### To Be With You を知らない人向けに
 {:.no_toc}
 
-##### Music Video
+#### Music Video
 <div class="u-youtube">
   <iframe width="320" height="180" src="https://www.youtube.com/embed/L6-uJLteKek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-##### Live
+#### Live
 <div class="u-youtube">
   <iframe width="320" height="180" src="https://www.youtube.com/embed/dJnYRzJMWQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
@@ -215,7 +215,7 @@ CD はもっと前からあったように思うので、姉が高校生のと�
 > 立ち上がるんだ  
 > 失恋はそんなに悪いものじゃないよ
 
-##### Hold on
+#### Hold on
 
 `hold on` は「続けていく」「持続する」「ふんばる」的な意味があるので、ここでは「ふんばる」を採用して「元気をだしなよ」にしてみました。
 
@@ -223,7 +223,7 @@ CD はもっと前からあったように思うので、姉が高校生のと�
 
 `Show me` で、僕に教えてくれ、 `what he's done to you` は `done to you` で「あなたにしたこと」なので「彼が君に何をしたっていうんだ、言ってごらんよ」としました。
 
-##### A broken heart can't be that bad
+#### A broken heart can't be that bad
 
 `A broken heart` は「失恋」、`that bad` は「そんなに悪い」なので「失恋はそんなに悪いものじゃないよ」としました
 
@@ -238,13 +238,13 @@ CD はもっと前からあったように思うので、姉が高校生のと�
 > だからこっちにおいてよ、さあおいで  
 > 君の運命の人だってことを証明させてよ
 
-##### Fate will twist the both of you
+#### Fate will twist the both of you
 
 `Fate` は「運命」、`twist` は「撚り合わせる、捻る、歪める」、`both of you` は「二人とも」なので直訳すると「運命が二人を歪めるだろう」です。
 
 意訳すれば「運命が二人を引き離したんだよ」「運命の二人じゃなかったんだよ」くらいかなと。
 
-##### Let me be the one to show you
+#### Let me be the one to show you
 
 `let me ~` は「〜してあげる」、`show you` は「君に教える、示す、証明する」、`be the one` は「その人になる」なので、直訳すれば「君に示すその人になってあげる」 or 「その人になる証明してあげる」なのかなと。
 
@@ -263,11 +263,11 @@ CD はもっと前からあったように思うので、姉が高校生のと�
 > 嫉妬と憂鬱な気持ちで待ったんだ  
 > 次に君の隣にいるために
 
-##### I'm the one who wants to be with you
+#### I'm the one who wants to be with you
 
 直訳すれば「僕は君と一緒にいたいその人である」で、意訳して「君と一緒にいたいのは僕なんだ」としました。
 
-##### Waited on a line of greens and blues
+#### Waited on a line of greens and blues
 
 いわゆる英語の色の感情の意味だと `green` は「嫉妬」、`blue` は「憂鬱」となりそうだが、もしかしたらポジティブかもしれないとも思いました。
 
@@ -285,7 +285,7 @@ CD はもっと前からあったように思うので、姉が高校生のと�
 > 目を覚ませよ、誰が気にするのさ  
 > あいつらはお喋りしすぎなのさ
 
-##### So you can be on top for once
+#### So you can be on top for once
 
 `on top` は「うまくいく」、`for once` は「たまには」で直訳すれば「君はたまには上手くできる」になるかなと。
 
@@ -303,17 +303,17 @@ CD はもっと前からあったように思うので、姉が高校生のと�
 > 君を抱きしめさせてよ
 
 
-##### I've seen it all go down
+#### I've seen it all go down
 
 `I've seen ~` は「〜を見ていた」で `go down` は「下りる・沈む・落ちる」などの意味があり、直訳すると「僕は全てが落ちるのを見ていた」かなと思います。
 
 意訳すると「僕は一部始終を見ていたよ」や「僕は君の失恋のすべてを見ていたよ」といった感じかなと思います。
 
-##### Your game of love was all rained out
+#### Your game of love was all rained out
 
 `rained out` で「（雨が）中止にする」といった意味合いなので直訳すれば「君の恋のゲームは雨ですべて中止になったんだ」です。
 
-##### Let me be the one to hold you
+#### Let me be the one to hold you
 
 `Let me be the one to show you` の `show` が `hold` に変わりましたね。
 

@@ -31,16 +31,15 @@ We Didn't Start The Fire は良い曲ではありますがぼくには刺さら�
 
 小〜中学生くらいで知っているからてっきりそこから 5 年くらい前くらいにリリースされたものと思っていましたが、そんなに昔だったとは。
 
-> 世の中が不誠実に溢れ、誠実さを得ることは難しいが、それでも誠実さを求めていくという内容の歌。  
-> - Wikipedia [^Honesty]
+> 世の中が不誠実に溢れ、誠実さを得ることは難しいが、それでも誠実さを求めていくという内容の歌。 - Wikipedia [^Honesty]
 
 Wikipedia には上記のような解説が載っていました。訳すのが楽しみです。
 
 
-#### Honesty を知らない人向けに
+### Honesty を知らない人向けに
 {:.no_toc}
 
-##### Music Video
+#### Music Video
 <div class="u-youtube">
   <iframe width="320" height="180" src="https://www.youtube.com/embed/SuFScoO4tb0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
