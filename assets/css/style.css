@@ -411,7 +411,7 @@ article.permalink .post-body { margin-bottom: 2em; }
 .post-body h6 { font-weight: normal; margin: 2em 0 .5em; }
 .post-body h2 { font-size: 115%; border-bottom: 1px solid #ddd; padding: .25em 0; margin-bottom: 1em; }
 .post-body h3 { font-size: 105%; border-bottom: 1px dotted #ddd; padding: .25em 0; margin-bottom: 1em; }
-.post-body h4 { font-size: 100%; border-left: 4px solid #aaa; padding-left: .5em; }
+.post-body h4 { font-size: 100%; padding: .1275em .5em; display: inline-block; background-color: #aaa; color: #fff; }
 .post-body h5 { font-size:  95%; }
 .post-body h6 { font-size:  85%; }
 .post-body p { margin: .5em 0 1em; }

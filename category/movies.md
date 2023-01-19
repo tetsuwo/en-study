@@ -1,5 +1,5 @@
 ---
 layout: posts-category
 title: "Movies"
-category: movies
+category: Movies
 ---
