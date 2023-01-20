@@ -26,6 +26,7 @@ We Didn't Start The Fire は良い曲ではありますがぼくには刺さら�
 <!-- more -->
 
 ### 余談
+{:.no_toc}
 
 「Honesty [^Honesty]」が発表されたのは 1978 年とのことで、ぼくが生まれる前からある曲だったのですね。
 
@@ -68,14 +69,14 @@ Wikipedia には上記のような解説が載っていました。訳すのが�
 > Honesty is such a lonely word  
 > Everyone is so untrue  
 > Honesty is hardly ever heard  
-> And mostly what i need from you  
+> And mostly what I need from you  
 > 
 > I can always find someone  
 > To say they sympathize  
-> If i wear my heart out on my sleeve  
-> But i don't want some pretty face  
+> If I wear my heart out on my sleeve  
+> But I don't want some pretty face  
 > To tell me pretty lies  
-> All i want is someone to believe  
+> All I want is someone to believe  
 > 
 > Honesty is such a lonely word  
 > Everyone is so untrue  
@@ -111,9 +112,9 @@ Wikipedia には上記のような解説が載っていました。訳すのが�
 >> But if you **look for** **truthfulness**, **you might just as well be blind**  
 >> **It always seems to be so hard to give**  
 >
-> 君が「優しさ」を探し求めるなら、見つけるのは難しくない  
-> 君は人生に必要な愛を得る  
-> だが「誠実さ」を探すのならば、君は都合よく盲目になるかもしれない  
+> 君が「優しさ」を探し求めるなら、見つけるのは難しくないよ  
+> 生きるために必要なくらいの愛なら手に入れられるさ  
+> でも「誠実さ」を探すのならば、君は都合よく見えなくなるかもしれない  
 > それは与えることがとても難しいものだと思うんだ
 
 
@@ -127,14 +128,17 @@ Wikipedia には上記のような解説が載っていました。訳すのが�
 
 #### you might just as well be blind
 
-君は都合よく盲目になるかもしれない
+`just as well` は「さしつかえない、それもけっこう、まったく運のよい、ちょうどよい、かえってよい」といった意味。  
+`blind` は「目の見えない」や「（物事に）気づかない、見る目がない」といった意味があるようです。
+
+そうすると「君は都合よく見えなくなるかもしれない」といった具合でしょうか。
 
 #### It always seems to be so hard to give
 
 `seems to be` は「と思われる、どうもそうらしい、ように見える」
 `to give` は「与えること」
 
-なので「それ（誠実さ）はいつも与えることが難しいと思われる」
+なので直訳すると「それ（誠実さ）はいつも与えることが難しいと思われる」で意訳して「それは与えることがとても難しいものだと思うんだ」としてみました。
 
 #### search for と look for
 
@@ -148,31 +152,59 @@ Wikipedia には上記のような解説が載っていました。訳すのが�
 
 >> Honesty is such a lonely word  
 >> Everyone is so untrue  
->> Honesty is hardly ever heard  
->> And mostly what I need from you  
+>> Honesty is **hardly ever** heard  
+>> **And mostly what I need from you**  
 >
-> 誠実、そのような寂しい言葉  
-> みんなは誠実じゃない  
-> 誠実、めったに聞かない  
-> そして君にこそ必要
+> 「誠実」なんて寂しい言葉なんだ  
+> みんなは不誠実なのに  
+> 「誠実」めったに耳にしないよ  
+> そして君にこそもっとも必要なものさ
+
+#### hardly ever ~
+
+`hardly ever ~` で「めったに〜ない」という意味なので「誠実、めったに耳にしないよ」的なニュアンスかと思います。
+
+#### And mostly what I need from you
+
+`mostly` は「たいていの、大部分、主に」などの意味があります。
+
+直訳すると「そして、主に私は君から必要だ」といった具合なので、意訳すれば「そして気にこそもっとも必要なものさ」ぐらいかなと。  
+ちょっと自信ないです。
 
 
-> I can always find someone  
-> To say they sympathize  
-> If I wear my heart out on my sleeve  
-> But I don't want some pretty face  
-> To tell me pretty lies  
-> All I want is someone to believe  
+>> I can always find someone  
+>> To say they sympathize  
+>> If I wear my heart out on my sleeve  
+>> But I don't want some pretty face  
+>> To tell me pretty lies  
+>> All I want is someone to believe  
+> 
+> 思っていることを素直に言えば「わかるよ」と言ってくれる人たちを見つけることはいつでもできる  
+> もし
+
 
 #### To say they sympathize
 
-`sympathize` は「」
+`sympathize` は「同情する、気の毒に思う、同感する、共鳴する、賛成する、共感する」という意味です。
+
+`they` は特定の彼らというよりかは `someone` にかかっているのかなと思うので「"わかるよ"と言ってくれる人たち」的な意味合いに受け取りました。
 
 
 #### If I wear my heart out on my sleeve
 
-`heart out` 
-`on my sleeve`
+`heart out` は「心を躍らせる、楽しむ」といった意味らしいです。  
+
+`on my sleeve` だけで意味があると思いきや、`wear ~ on one's sleeve` で「～の主張をはっきりと出す」といった意味がありました。
+
+さらに `wear one's heart on one's sleeve` で「感情を露骨に表わす、思うことをあけすけに言う」といった意味があるらしくそうすると `out` って何だとなりました・・・。
+
+`out` を無視して直訳すれば「私が思っていることを率直に言えば」となり、一つ前の歌詞と繋がりますね。
+
+なので、この 3 文はこういった 1 文なのでしょうね。
+
+`I can always find someone, to say they sympathize if I wear my heart out on my sleeve`
+
+
 
 
 > When I'm deep inside of me  
