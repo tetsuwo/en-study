@@ -233,16 +233,15 @@ Wikipedia には上記のような解説が載っていました。訳すのが�
 
 #### Don't me too concerned
 
-`concerned`
+`concerned` は「心配そうな、憂慮している」という意味。
 
 #### I won't as for nothing while I'm gone
 
-`for nothing while`
+`for nothing` は「ただで、理由もなく、いわれなく」という意味。
 
 #### But when I want sincerity
 
-`sincerity`
-
+`sincerity` は「誠実、真実、誠意」という意味。
 
 
 
