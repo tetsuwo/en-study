@@ -182,8 +182,8 @@ Wikipedia には上記のような解説が載っていました。訳すのが�
 >> All I want is someone to believe**  
 > 
 > 思っていることを素直に言えば「わかるよ」と言ってくれる人たちを見つけることはいつでもできる  
-> でも、可愛い顔で可愛い嘘をつかないでほしいんだ
-> 僕は信じたいだけなんだよ
+> でも、可愛い顔で可愛い嘘をつかないでほしいんだ  
+> 僕は求めているのは信じられる誰かなんだよ
 
 
 #### To say they sympathize
@@ -219,21 +219,33 @@ Wikipedia には上記のような解説が載っていました。訳すのが�
 ということで、まとめると
 
 「でも、可愛い顔で可愛い嘘をつかないでほしいんだ」  
-「僕は信じたいだけなんだよ」
+「僕は求めているのは信じられる誰かなんだよ」
 
 ぐらいに意訳してみました。
 
 
-> When I'm deep inside of me  
-> Don't me too concerned  
-> I won't as for nothing while I'm gone  
-> But when I want sincerity  
-> Tell me where else can I turn  
-> Because you're the one I depend upon  
+>> When I'm deep inside of me  
+>> **Don't me too concerned**  
+>> **I won't as for nothing while I'm gone**  
+>> **But when I want sincerity**  
+>> **Tell me where else can I turn**  
+>> **Because you're the one I depend upon**  
+> 
+> 僕が自分の内に閉じこもったときは  
+> 気にしないでほしいんだ  
+> 消え去っている間、僕は何もしないだろう  
+> でも誠実を欲しているときは  
+> 僕がどこに進んだらいいか教えてほしいんだ  
+> なぜなら君は僕が頼りにしているその人だから
 
 #### Don't me too concerned
 
-`concerned` は「心配そうな、憂慮している」という意味。
+`concerned` は「心配そうな、憂慮している」という意味です。
+
+ただ `don't me too concerned` で「気にしないで」という意味になるらしいです。
+
+直訳すれば「私を心配し過ぎることはしないで」だから「気にしないで」といった意味合いになるのでしょうね。
+
 
 #### I won't as for nothing while I'm gone
 
@@ -243,6 +255,21 @@ Wikipedia には上記のような解説が載っていました。訳すのが�
 
 `sincerity` は「誠実、真実、誠意」という意味。
 
+直訳すれば「でも誠意が欲しいとき」ですね。
+
+#### Tell me where else can I turn
+
+`where else` は「他のどの場所」という意味で `Where else?` といった使われ方をすると「他には？（他に行くところは？）」みたいにも使えるようです。
+
+`turn` は「回転させる、転身する、変化する」といった意味があります。
+
+直訳すると「私が変われる他の場所を教えて」といった感じでしょうか。
+
+#### Because you're the one I depend upon
+
+`depend upon` は「に頼る」という意味があります。
+
+直訳すれば「なぜならあなたは私が頼るその人です」かなと。
 
 
 
