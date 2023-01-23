@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Honesty - Billy Joel を和訳して英語の勉強"
-date: 2023-01-08 14:00:00 +0900
-last_modified_at: 2023-01-08 14:00:00 +0900
+date: 2023-01-23 16:00:00 +0900
+last_modified_at: 2023-01-23 16:00:00 +0900
 categories: Lyrics
 tags:
 - Billy Joel
@@ -104,6 +104,67 @@ Wikipedia には上記のような解説が載っていました。訳すのが�
 
 ### 和訳
 
+> If you search for tenderness, it isn't hard to find  
+> You can have the love you need to live  
+> But if you look for truthfulness, you might just as well be blind  
+> It always seems to be so hard to give  
+
+君が「優しさ」を探し求めるなら、見つけるのは難しくないよ  
+生きるために必要なくらいの愛なら手に入れられるさ  
+でも「誠実さ」を探すのならば、君は都合よく見えなくなるかもしれない  
+それは与えることがとても難しいものだと思うんだ
+
+
+> Honesty is such a lonely word  
+> Everyone is so untrue  
+> Honesty is hardly ever heard  
+> And mostly what I need from you  
+
+「誠実」なんて寂しい言葉なんだ  
+みんなは不誠実なのに  
+「誠実」めったに耳にしないよ  
+そして君にこそもっとも必要なものさ
+
+
+> I can always find someone  
+> To say they sympathize  
+> If I wear my heart out on my sleeve  
+> But I don't want some pretty face  
+> To tell me pretty lies  
+> All I want is someone to believe  
+ 
+思っていることを素直に言えば「わかるよ」と言ってくれる人たちを見つけることはいつでもできる  
+でも、可愛い顔で可愛い嘘をつかないでほしいんだ  
+僕が求めているのは信じられる誰かなんだよ
+
+
+> I can find a lover  
+> I can find a friend  
+> I can have security until the bitter end  
+> Anyone can comfort me with promises again  
+> I know, I know  
+ 
+恋人だって見つかるさ  
+友だちだって  
+苦難の末に仮初の安心を得られるさ  
+誰でも約束で僕を慰められる  
+わかってるさ、わかってるんだよ
+
+
+> When I'm deep inside of me  
+> Don't me too concerned  
+> I won't as for nothing while I'm gone  
+> But when I want sincerity  
+> Tell me where else can I turn  
+> Because you're the one I depend upon  
+ 
+僕が自分の内に閉じこもったときは  
+気にしないでほしいんだ  
+そんなときは僕は何もしないだろう  
+でも誠実を欲しているときは  
+僕がどこに進んだらいいか教えてほしいんだ  
+なぜなら君は僕が頼りにしているその人なのだから
+
 
 ### 解説
 
@@ -183,7 +244,7 @@ Wikipedia には上記のような解説が載っていました。訳すのが�
 > 
 > 思っていることを素直に言えば「わかるよ」と言ってくれる人たちを見つけることはいつでもできる  
 > でも、可愛い顔で可愛い嘘をつかないでほしいんだ  
-> 僕は求めているのは信じられる誰かなんだよ
+> 僕が求めているのは信じられる誰かなんだよ
 
 
 #### To say they sympathize
@@ -219,9 +280,38 @@ Wikipedia には上記のような解説が載っていました。訳すのが�
 ということで、まとめると
 
 「でも、可愛い顔で可愛い嘘をつかないでほしいんだ」  
-「僕は求めているのは信じられる誰かなんだよ」
+「僕が求めているのは信じられる誰かなんだよ」
 
 ぐらいに意訳してみました。
+
+
+>> I can find a lover  
+>> I can find a friend  
+>> **I can have security until the bitter end**  
+>> **Anyone can comfort me with promises again**  
+>> I know, I know  
+> 
+> 恋人だって見つかるさ  
+> 友だちだって  
+> 苦難の末に仮初の安心を得られるさ  
+> 誰でも約束で僕を慰められる  
+> わかってるさ、わかってるんだよ
+
+#### I can have security until the bitter end
+
+`bitter end` は「苦い終わり方」とか「苦い結末」くらいの意味に思っていたら「苦難の末、あくまで」という意味でした。
+
+直訳すれば「僕は苦難の末に安心を得られる」といった具合でしょうか。
+
+ただ、ここまでの訳を考えるとどうしてもポジティブには考えられないので、きっと「うわべ」なイメージがあるんだろうと思います。  
+「仮初の安心を得る」ぐらいが個人的には丁度いいですね。
+
+#### Anyone can comfort me with promises again
+
+`comfort` は「慰める、安心させる」という意味です。  
+（初めて知った単語でした）
+
+直訳すれば「誰でも約束を使って私を慰めることができる」という感じでしょうか。
 
 
 >> When I'm deep inside of me  
@@ -233,10 +323,10 @@ Wikipedia には上記のような解説が載っていました。訳すのが�
 > 
 > 僕が自分の内に閉じこもったときは  
 > 気にしないでほしいんだ  
-> 消え去っている間、僕は何もしないだろう  
+> そんなときは僕は何もしないだろう  
 > でも誠実を欲しているときは  
 > 僕がどこに進んだらいいか教えてほしいんだ  
-> なぜなら君は僕が頼りにしているその人だから
+> なぜなら君は僕が頼りにしているその人なのだから
 
 #### Don't me too concerned
 
@@ -249,7 +339,16 @@ Wikipedia には上記のような解説が載っていました。訳すのが�
 
 #### I won't as for nothing while I'm gone
 
-`for nothing` は「ただで、理由もなく、いわれなく」という意味。
+`for nothing` は「ただで、理由もなく、いわれなく」という意味ですが、訳した方が本当に分からない...。
+
+`won't (will not)` は「するつもりない」です。
+
+`I'm gone` は `deep inside of me` な状態のことだと思うので訳さなくてもよさそうな気がしますね。
+
+`as for` を無視して直訳すれば「僕は自分が居ない間（＝内に閉じこもっているとき＝落ち込んでいるとき）何もするつもりはない」なのかなと。
+
+自分が居ない間というのは前段で触れられていることを考えると「そんなときは」くらいに訳すのがしっくりきますね。個人的には。
+
 
 #### But when I want sincerity
 
@@ -272,9 +371,11 @@ Wikipedia には上記のような解説が載っていました。訳すのが�
 直訳すれば「なぜならあなたは私が頼るその人です」かなと。
 
 
-
-
 ### 考察
+
+なぜ寂しい曲調で寂しい歌い方なのか、少し理由が分かった気がします。
+
+訳し続けたら何か分かるかもなのでまた加筆します (｀･ω･´)ゞ
 
 
 ----
