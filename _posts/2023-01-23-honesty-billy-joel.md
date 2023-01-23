@@ -16,7 +16,7 @@ tags:
 これまでの MR. BIG 然り、Green Day 然り、姉の影響が大きいことが分かりますね...。  
 今度姉にあったら昔の思い出話でもしよう。
 
-Billy Joel もまた姉から引き継いだアーティストだったわけですが、中でも The Stranger、Movin' Out、Uptown Girl、My Life、The Longest Time、Piano Man、Honesty は特に好きでした。  
+さてさて Billy Joel もまた姉から受け継いだアーティストだったわけですが、中でも The Stranger、Movin' Out、Uptown Girl、My Life、The Longest Time、Piano Man、Honesty は特に好きでした。  
 （「特に」って言ってるのに多いな...）
 
 We Didn't Start The Fire は良い曲ではありますがぼくには刺さらなかったです。
